@@ -1,0 +1,53 @@
+[
+  {
+    "slug": "iqvia-renovasyon-phase-ii",
+    "published": true,
+    "title_tr": "IQVIA RENOVASYON — PHASE II",
+    "title_en": "IQVIA RENOVATION — PHASE II",
+    "location_tr": "İSTANBUL · TÜRKİYE",
+    "location_en": "ISTANBUL · TURKEY",
+    "year": "2026",
+    "category_tr": "İÇ MİMARLIK · RENOVASYON",
+    "category_en": "INTERIOR ARCHITECTURE · RENOVATION",
+    "cover": "assets/iqvia.jpg",
+    "summary_tr": "IQVIA Renovasyon Projesi; çalışma alanlarını işlev, kullanıcı deneyimi ve uygulama koordinasyonunu birlikte ele alan bütüncül bir yaklaşımla yeniden yorumlar.",
+    "summary_en": "The IQVIA Renovation Project reinterprets workplace environments through an integrated approach to function, user experience and execution coordination.",
+    "description_tr": "Proje; tasarım kararları, teknik koordinasyon ve uygulama sürecinin birlikte yönetildiği bütüncül bir renovasyon yaklaşımıyla ele alınmıştır.",
+    "description_en": "The project was developed through an integrated renovation approach combining design decisions, technical coordination and execution management.",
+    "gallery": ["assets/iqvia.jpg", "assets/interior.jpg", "assets/iqvia.jpg"]
+  },
+  {
+    "slug": "villa",
+    "published": true,
+    "title_tr": "VILLA",
+    "title_en": "VILLA",
+    "location_tr": "TÜRKİYE",
+    "location_en": "TURKEY",
+    "year": "2026",
+    "category_tr": "KONUT",
+    "category_en": "RESIDENTIAL",
+    "cover": "assets/villa.jpg",
+    "summary_tr": "Sade malzeme dili, dengeli oranlar ve zamansız bir mimari yaklaşım üzerine geliştirilen konut projesi.",
+    "summary_en": "A residential project developed around a restrained material palette, balanced proportions and a timeless architectural approach.",
+    "description_tr": "İç ve dış mekân ilişkisi, doğal ışık ve kullanıcı ihtiyaçları projenin temel tasarım kararlarını oluşturur.",
+    "description_en": "The relationship between interior and exterior spaces, natural light and user needs form the project's core design decisions.",
+    "gallery": ["assets/villa.jpg"]
+  },
+  {
+    "slug": "workplace-interior",
+    "published": true,
+    "title_tr": "WORKPLACE INTERIOR",
+    "title_en": "WORKPLACE INTERIOR",
+    "location_tr": "İSTANBUL · TÜRKİYE",
+    "location_en": "ISTANBUL · TURKEY",
+    "year": "2026",
+    "category_tr": "İÇ MİMARLIK",
+    "category_en": "INTERIOR ARCHITECTURE",
+    "cover": "assets/interior.jpg",
+    "summary_tr": "Çalışma kültürü, kullanıcı konforu ve teknik gereksinimleri bir araya getiren çağdaş bir çalışma alanı yaklaşımı.",
+    "summary_en": "A contemporary workplace approach bringing together work culture, user comfort and technical requirements.",
+    "description_tr": "Planlama, malzeme ve aydınlatma kararları bütüncül bir iç mimarlık dili içinde ele alınmıştır.",
+    "description_en": "Planning, material and lighting decisions are considered within a coherent interior architecture language.",
+    "gallery": ["assets/interior.jpg"]
+  }
+]
