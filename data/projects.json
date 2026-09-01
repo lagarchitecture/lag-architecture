@@ -78,5 +78,20 @@
       "assets/ZEYTİNYAĞ/3.png",
       "assets/ZEYTİNYAĞ/4.png"
     ]
+  },
+  {
+    "slug": "iqvia-giris",
+    "published": true,
+    "title_tr": "IQVIA Giriş/Karşılama Alanı ",
+    "location_tr": "İSTANBUL · TÜRKİYE",
+    "location_en": "İSTANBUL · TÜRKİYE",
+    "year": "2026",
+    "category_tr": "Renovasyon",
+    "category_en": "Renovation",
+    "cover": "assets/interior.jpg",
+    "summary_tr": "Kurumsal kimliği çağdaş bir mekânsal dille yeniden yorumlayan giriş ve karşılama alanı.",
+    "summary_en": "A contemporary entrance and reception space shaped around the company’s corporate identity.",
+    "description_tr": "Mevcut plaza içerisinde yer alan giriş ve karşılama alanı, firmanın kurumsal kimliğini daha güçlü ve çağdaş bir mekânsal deneyime dönüştürmek amacıyla yeniden ele alındı. Malzeme, aydınlatma ve detay çözümleri; yalın, işlevsel ve davetkâr bir karşılama atmosferi oluşturacak şekilde kurgulandı.",
+    "description_en": "The existing entrance and reception area was redesigned to create a stronger and more contemporary spatial expression of the company’s identity. Materials, lighting, and architectural details were carefully considered to establish a refined, functional, and welcoming arrival experience."
   }
 ]
