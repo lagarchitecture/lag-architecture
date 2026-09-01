@@ -114,6 +114,112 @@ content:
         label: Alt Slogan
         type: string
 
+  - name: design
+    label: Tasarım Ayarları
+    type: file
+    path: data/design.json
+    format: json
+    operations:
+      delete: false
+    fields:
+      - name: logo_width_desktop
+        label: Logo Genişliği — Masaüstü (px)
+        type: number
+        description: Önerilen aralık 90–220 px.
+        options:
+          min: 60
+          max: 320
+      - name: logo_width_mobile
+        label: Logo Genişliği — Mobil (px)
+        type: number
+        description: Önerilen aralık 65–130 px.
+        options:
+          min: 50
+          max: 180
+      - name: display_font
+        label: Başlık Fontu
+        type: select
+        options:
+          values:
+            - name: Cormorant Garamond
+              label: Cormorant Garamond — zarif / editorial
+            - name: Bodoni Moda
+              label: Bodoni Moda — moda / premium
+            - name: Playfair Display
+              label: Playfair Display — klasik serif
+            - name: Libre Baskerville
+              label: Libre Baskerville — mimari / klasik
+            - name: DM Sans
+              label: DM Sans — modern sans
+            - name: Manrope
+              label: Manrope — minimal sans
+            - name: Montserrat
+              label: Montserrat — geometrik sans
+            - name: Inter
+              label: Inter — nötr sans
+      - name: body_font
+        label: Metin ve Menü Fontu
+        type: select
+        options:
+          values:
+            - name: Inter
+              label: Inter — nötr / temiz
+            - name: DM Sans
+              label: DM Sans — modern
+            - name: Manrope
+              label: Manrope — minimal
+            - name: Montserrat
+              label: Montserrat — geometrik
+            - name: Libre Baskerville
+              label: Libre Baskerville — serif
+            - name: Cormorant Garamond
+              label: Cormorant Garamond — serif
+      - name: hero_title_max_px
+        label: Ana Başlık Maksimum Boyutu (px)
+        type: number
+        description: Ana sayfadaki “İyi Tasarım. Kusursuz Planlama.” başlığı.
+        options:
+          min: 64
+          max: 180
+      - name: section_title_max_px
+        label: Büyük Bölüm Başlıkları Maksimum Boyutu (px)
+        type: number
+        description: Stüdyo, iletişim ve proje sayfasındaki büyük başlıklar.
+        options:
+          min: 36
+          max: 110
+      - name: service_title_max_px
+        label: Hizmet Başlıkları Maksimum Boyutu (px)
+        type: number
+        options:
+          min: 22
+          max: 72
+      - name: body_font_size_px
+        label: Normal Metin Boyutu (px)
+        type: number
+        options:
+          min: 12
+          max: 24
+      - name: hero_description_size_px
+        label: Ana Sayfa Açıklama Boyutu (px)
+        type: number
+        options:
+          min: 11
+          max: 24
+      - name: nav_font_size_px
+        label: Menü Yazı Boyutu (px)
+        type: number
+        options:
+          min: 8
+          max: 18
+      - name: meta_font_size_px
+        label: Proje Alt Bilgi Boyutu (px)
+        type: number
+        description: Proje kartlarının altındaki kategori ve yıl yazıları.
+        options:
+          min: 8
+          max: 18
+
   - name: projects
     label: Projeler
     type: file
