@@ -22,8 +22,10 @@ function lagApplyDesign(d={}){
   const n=(v,f)=>Number.isFinite(Number(v))?Number(v):f;
   r.setProperty('--display-font',`"${d.display_font||'Cormorant Garamond'}", Georgia, serif`);
   r.setProperty('--body-font',`"${d.body_font||'Inter'}", Arial, Helvetica, sans-serif`);
-  r.setProperty('--logo-width',`${n(d.logo_width_desktop,140)}px`);
-  r.setProperty('--logo-width-mobile',`${n(d.logo_width_mobile,96)}px`);
+  r.setProperty('--logo-width',`${n(d.logo_width_desktop,220)}px`);
+  r.setProperty('--logo-height',`${n(d.logo_height_desktop,140)}px`);
+  r.setProperty('--logo-width-mobile',`${n(d.logo_width_mobile,110)}px`);
+  r.setProperty('--logo-height-mobile',`${n(d.logo_height_mobile,80)}px`);
   r.setProperty('--hero-title-max',`${n(d.hero_title_max_px,128)}px`);
   r.setProperty('--section-title-max',`${n(d.section_title_max_px,74)}px`);
   r.setProperty('--service-title-max',`${n(d.service_title_max_px,42)}px`);

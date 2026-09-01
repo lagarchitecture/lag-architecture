@@ -24,3 +24,9 @@ Galeri alanına en fazla 50 görsel eklenebilir.
 
 V6 TASARIM AYARLARI
 Pages CMS içinde “Tasarım Ayarları” menüsü eklendi. Buradan logo genişliği, başlık/metin fontu ve temel yazı boyutları değiştirilebilir. Fontlar Google Fonts üzerinden yüklenir.
+
+
+V7 LOGO BOYUTU DÜZELTMESİ
+Logo görselindeki sabit 72px yükseklik sınırı kaldırıldı.
+Tasarım Ayarları içine masaüstü ve mobil logo maksimum yüksekliği eklendi.
+Varsayılan masaüstü logo genişliği 220px, maksimum yüksekliği 140px olarak ayarlandı.
