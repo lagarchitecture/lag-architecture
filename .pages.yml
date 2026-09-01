@@ -1,0 +1,186 @@
+media:
+  - name: images
+    label: Görseller
+    input: assets
+    output: assets
+    categories: [image]
+    extensions: [jpg, jpeg, png, webp]
+    rename: safe
+
+content:
+  - name: site
+    label: Site Ayarları
+    type: file
+    path: data/site.json
+    format: json
+    operations:
+      delete: false
+    fields:
+      - name: logo
+        label: Logo
+        type: image
+        options:
+          media: images
+      - name: hero_image
+        label: Ana Sayfa Kapak Görseli
+        type: image
+        options:
+          media: images
+      - name: hero_kicker_tr
+        label: Üst Başlık (TR)
+        type: string
+      - name: hero_kicker_en
+        label: Üst Başlık (EN)
+        type: string
+      - name: hero_title_tr
+        label: Ana Başlık (TR)
+        type: text
+        description: Satır atlayarak iki satır kullanabilirsiniz.
+      - name: hero_title_en
+        label: Ana Başlık (EN)
+        type: text
+      - name: hero_description_tr
+        label: Ana Sayfa Açıklaması (TR)
+        type: text
+      - name: hero_description_en
+        label: Ana Sayfa Açıklaması (EN)
+        type: text
+      - name: projects_location_tr
+        label: Projeler Bölümü Konum (TR)
+        type: string
+      - name: projects_location_en
+        label: Projeler Bölümü Konum (EN)
+        type: string
+      - name: studio_heading_tr
+        label: Stüdyo Büyük Başlık (TR)
+        type: text
+      - name: studio_heading_en
+        label: Stüdyo Büyük Başlık (EN)
+        type: text
+      - name: studio_body_1_tr
+        label: Stüdyo Metni 1 (TR)
+        type: text
+      - name: studio_body_1_en
+        label: Stüdyo Metni 1 (EN)
+        type: text
+      - name: studio_body_2_tr
+        label: Stüdyo Metni 2 (TR)
+        type: text
+      - name: studio_body_2_en
+        label: Stüdyo Metni 2 (EN)
+        type: text
+      - name: services
+        label: Hizmetler
+        type: object
+        list:
+          collapsible:
+            collapsed: true
+            summary: "{tr}"
+        fields:
+          - name: tr
+            label: Türkçe
+            type: string
+          - name: en
+            label: İngilizce
+            type: string
+      - name: contact_heading_tr
+        label: İletişim Başlığı (TR)
+        type: string
+      - name: contact_heading_en
+        label: İletişim Başlığı (EN)
+        type: string
+      - name: contact_intro_tr
+        label: İletişim Açıklaması (TR)
+        type: string
+      - name: contact_intro_en
+        label: İletişim Açıklaması (EN)
+        type: string
+      - name: email
+        label: E-posta
+        type: string
+      - name: phone
+        label: Telefon
+        type: string
+      - name: instagram
+        label: Instagram Linki
+        type: string
+      - name: location_tr
+        label: Konum (TR)
+        type: string
+      - name: location_en
+        label: Konum (EN)
+        type: string
+      - name: footer_tagline
+        label: Alt Slogan
+        type: string
+
+  - name: projects
+    label: Projeler
+    type: file
+    path: data/projects.json
+    format: json
+    list: true
+    operations:
+      delete: false
+    fields:
+      - name: slug
+        label: Proje Kısa Adı (URL)
+        type: string
+        required: true
+        description: Sadece küçük harf, rakam ve tire kullanın. Örn. kirkareli-cafe
+        pattern:
+          regex: "^[a-z0-9-]+$"
+          message: "Sadece küçük harf, rakam ve tire kullanın."
+      - name: published
+        label: Sitede Yayınla
+        type: boolean
+      - name: title_tr
+        label: Proje Adı (TR)
+        type: string
+        required: true
+      - name: title_en
+        label: Proje Adı (EN)
+        type: string
+      - name: location_tr
+        label: Konum (TR)
+        type: string
+      - name: location_en
+        label: Konum (EN)
+        type: string
+      - name: year
+        label: Yıl
+        type: string
+      - name: category_tr
+        label: Kategori (TR)
+        type: string
+      - name: category_en
+        label: Kategori (EN)
+        type: string
+      - name: cover
+        label: Kapak Görseli
+        type: image
+        required: true
+        options:
+          media: images
+      - name: summary_tr
+        label: Kısa Açıklama (TR)
+        type: text
+      - name: summary_en
+        label: Kısa Açıklama (EN)
+        type: text
+      - name: description_tr
+        label: Proje Açıklaması (TR)
+        type: text
+      - name: description_en
+        label: Proje Açıklaması (EN)
+        type: text
+      - name: gallery
+        label: Proje Galerisi
+        type: image
+        options:
+          media: images
+          multiple:
+            max: 50
+          unique: true
+          extensions: [jpg, jpeg, png, webp]
+          rename: safe
