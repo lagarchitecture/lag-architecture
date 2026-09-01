@@ -21,7 +21,9 @@ function render(){
 async function load(){
   try{
     const slug=new URLSearchParams(location.search).get('project'); const stamp=Date.now();
+    const designPromise=lagFetchDesign(stamp);
     const [site,projects]=await Promise.all([fetch(`data/site.json?v=${stamp}`).then(r=>r.json()),fetch(`data/projects.json?v=${stamp}`).then(r=>r.json())]);
+    await designPromise;
     siteData=site; project=projects.find(p=>p.slug===slug&&p.published!==false);
     if(!project){$('not-found').hidden=false;return;}
     $('project-content').hidden=false; render();

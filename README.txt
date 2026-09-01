@@ -21,3 +21,6 @@ Kurulum:
 Yeni proje eklemek için Pages CMS > Projeler içinde yeni liste öğesi ekleyin.
 Slug alanına sadece küçük harf, rakam ve tire yazın (ör. kirkareli-cafe).
 Galeri alanına en fazla 50 görsel eklenebilir.
+
+V6 TASARIM AYARLARI
+Pages CMS içinde “Tasarım Ayarları” menüsü eklendi. Buradan logo genişliği, başlık/metin fontu ve temel yazı boyutları değiştirilebilir. Fontlar Google Fonts üzerinden yüklenir.

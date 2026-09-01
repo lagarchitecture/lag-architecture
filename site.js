@@ -44,10 +44,12 @@ function renderProjects(){
 async function load(){
   try{
     const stamp=Date.now();
+    const designPromise=lagFetchDesign(stamp);
     [siteData,projectsData]=await Promise.all([
       fetch(`data/site.json?v=${stamp}`).then(r=>{if(!r.ok)throw new Error('site.json');return r.json()}),
       fetch(`data/projects.json?v=${stamp}`).then(r=>{if(!r.ok)throw new Error('projects.json');return r.json()})
     ]);
+    await designPromise;
     render();
   }catch(e){console.error('LAG content load error:',e);}
 }
