@@ -1,0 +1,1 @@
+const b=document.getElementById('lang');let lang=localStorage.getItem('lag-lang')||'tr';function apply(){document.documentElement.lang=lang;document.querySelectorAll('[data-tr]').forEach(el=>el.innerHTML=el.dataset[lang]);if(b)b.textContent=lang==='tr'?'TR / EN':'EN / TR'}apply();if(b)b.onclick=()=>{lang=lang==='tr'?'en':'tr';localStorage.setItem('lag-lang',lang);apply()};
