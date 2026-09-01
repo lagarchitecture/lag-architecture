@@ -100,5 +100,11 @@
       "assets/IQVIA GİRİŞ/ekran-goruntusu-2026-09-01-192555.png",
       "assets/IQVIA GİRİŞ/ekran-goruntusu-2026-09-01-192717.png"
     ]
+  },
+  {
+    "slug": "fabrika-giris",
+    "published": true,
+    "title_tr": "fabrika-giris",
+    "cover": "assets/q.jpg"
   }
 ]
