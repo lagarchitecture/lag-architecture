@@ -66,6 +66,17 @@
     "location_tr": "ÇANAKKALE · TÜRKİYE",
     "location_en": "ÇANAKKALE · TÜRKİYE",
     "year": "2024",
-    "cover": "assets/villa.jpg"
+    "category_tr": "Endüstriyel Mimari / Üretim Tesisi",
+    "category_en": "Industrial Architecture / Production Facility",
+    "cover": "assets/ZEYTİNYAĞ/1.png",
+    "summary_tr": "Doğal peyzajla bütünleşen, işlevsel ve zamansız bir üretim yapısı.",
+    "summary_en": "Where industrial function meets the natural landscape.",
+    "description_tr": "Çanakkale’nin zeytinliklerle çevrili doğal dokusu içerisinde konumlanan üretim tesisi, işlevsel gereksinimleri yalın ve zamansız bir mimari dille bir araya getiriyor. Üretim, depolama ve servis alanları; güçlü bir operasyonel kurgu, kontrollü malzeme paleti ve peyzajla kurulan bütüncül ilişki üzerinden ele alındı.",
+    "description_en": "Set within the olive groves of Çanakkale, the production facility combines operational efficiency with a restrained and timeless architectural language. Production, storage, and service areas are carefully organized, while the material palette and landscape design establish a subtle dialogue between the industrial structure and its natural surroundings.",
+    "gallery": [
+      "assets/ZEYTİNYAĞ/2.png",
+      "assets/ZEYTİNYAĞ/3.png",
+      "assets/ZEYTİNYAĞ/4.png"
+    ]
   }
 ]
