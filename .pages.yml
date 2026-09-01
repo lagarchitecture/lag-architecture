@@ -129,6 +129,13 @@ content:
         options:
           min: 60
           max: 320
+      - name: logo_height_desktop
+        label: Logo Maksimum Yüksekliği — Masaüstü (px)
+        type: number
+        description: Logonun büyümesini sınırlayan yükseklik. 220 px genişlik için 130–150 px önerilir.
+        options:
+          min: 50
+          max: 240
       - name: logo_width_mobile
         label: Logo Genişliği — Mobil (px)
         type: number
@@ -136,6 +143,13 @@ content:
         options:
           min: 50
           max: 180
+      - name: logo_height_mobile
+        label: Logo Maksimum Yüksekliği — Mobil (px)
+        type: number
+        description: Mobilde logo için maksimum yükseklik.
+        options:
+          min: 40
+          max: 160
       - name: display_font
         label: Başlık Fontu
         type: select
