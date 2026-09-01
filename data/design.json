@@ -1,9 +1,9 @@
 {
-  "logo_width_desktop": 220,
-  "logo_width_mobile": 130,
+  "logo_width_desktop": 150,
+  "logo_width_mobile": 90,
   "display_font": "Cormorant Garamond",
   "body_font": "Inter",
-  "hero_title_max_px": 128,
+  "hero_title_max_px": 100,
   "section_title_max_px": 74,
   "service_title_max_px": 42,
   "body_font_size_px": 15,
