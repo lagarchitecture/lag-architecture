@@ -1,6 +1,6 @@
 {
   "logo": "assets/logo.png",
-  "hero_image": "assets/iqvia.jpg",
+  "hero_image": "assets/GÜN BATIMI VİLLA/chatgpt-image-2-eyl-2026-163241.png",
   "hero_kicker_tr": "MİMARLIK · İÇ MİMARLIK · PLANLAMA",
   "hero_kicker_en": "ARCHITECTURE · INTERIORS · PLANNING",
   "hero_title_tr": "İyi Tasarım.\nKusursuz Planlama.",
@@ -16,20 +16,36 @@
   "studio_body_2_tr": "Net kararlar, doğru koordinasyon ve uygulama disiplini; her projenin temelini oluşturur.",
   "studio_body_2_en": "Clear decisions, precise coordination and disciplined execution form the foundation of every project.",
   "services": [
-    {"tr": "Mimari Tasarım", "en": "Architecture"},
-    {"tr": "İç Mimarlık", "en": "Interior Architecture"},
-    {"tr": "Renovasyon", "en": "Renovation"},
-    {"tr": "Uygulama Projeleri", "en": "Construction Documentation"},
-    {"tr": "Proje Yönetimi", "en": "Project Management"},
-    {"tr": "Tasarım Koordinasyonu", "en": "Design Coordination"}
+    {
+      "tr": "Mimari Tasarım",
+      "en": "Architecture"
+    },
+    {
+      "tr": "İç Mimarlık",
+      "en": "Interior Architecture"
+    },
+    {
+      "tr": "Renovasyon",
+      "en": "Renovation"
+    },
+    {
+      "tr": "Uygulama Projeleri",
+      "en": "Construction Documentation"
+    },
+    {
+      "tr": "Proje Yönetimi",
+      "en": "Project Management"
+    },
+    {
+      "tr": "Tasarım Koordinasyonu",
+      "en": "Design Coordination"
+    }
   ],
   "contact_heading_tr": "Birlikte çalışalım.",
   "contact_heading_en": "Let's work together.",
   "contact_intro_tr": "Yeni proje ve iş birlikleri için:",
   "contact_intro_en": "For new projects and collaborations:",
   "email": "info@lagarchitects.com",
-  "phone": "",
-  "instagram": "",
   "location_tr": "İstanbul · Türkiye",
   "location_en": "Istanbul · Turkey",
   "footer_tagline": "GOOD DESIGN. PERFECT PLANNING."
