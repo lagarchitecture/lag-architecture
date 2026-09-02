@@ -126,5 +126,44 @@
       "assets/perf fabrika giriş/ekran-goruntusu-2026-09-01-200250.png",
       "assets/perf fabrika giriş/ekran-goruntusu-2026-09-01-193753.png"
     ]
+  },
+  {
+    "slug": "perf-ofis",
+    "published": true,
+    "title_tr": "Perfektüp Ofis Alanları",
+    "title_en": "Perfektüp Ofis Alanları",
+    "cover": "assets/kırklareli ofis koridor/ekran-goruntusu-2026-09-01-194257.png",
+    "gallery": [
+      "assets/kırklareli ofis koridor/ekran-goruntusu-2026-09-01-194400.png",
+      "assets/kırklareli ofis koridor/ekran-goruntusu-2026-09-01-194613.png",
+      "assets/kırklareli ofis koridor/ekran-goruntusu-2026-09-01-194417.png",
+      "assets/kırklareli ofis koridor/ekran-goruntusu-2026-09-01-194155.png",
+      "assets/kırklareli ofis koridor/ekran-goruntusu-2026-09-01-194132.png",
+      "assets/kırklareli ofis koridor/ekran-goruntusu-2026-09-01-194331.png",
+      "assets/kırklareli ofis koridor/ekran-goruntusu-2026-09-01-194244.png"
+    ]
+  },
+  {
+    "slug": "islak-hacim",
+    "published": true,
+    "title_tr": "Islak Hacim",
+    "title_en": "Islak Hacim",
+    "cover": "assets/ıslak hacim/ekran-goruntusu-2026-09-01-194746.png",
+    "gallery": [
+      "assets/ıslak hacim/ekran-goruntusu-2026-09-01-195445.png",
+      "assets/ıslak hacim/ekran-goruntusu-2026-09-01-194752.png"
+    ]
+  },
+  {
+    "slug": "yemekhane",
+    "published": true,
+    "title_tr": "Yemekhane",
+    "cover": "assets/kırklareli yemkhane mutfak/ekran-goruntusu-2026-09-01-194803-1.png",
+    "gallery": [
+      "assets/kırklareli yemkhane mutfak/ekran-goruntusu-2026-09-01-194803.png",
+      "assets/kırklareli yemkhane mutfak/ekran-goruntusu-2026-09-01-194824.png",
+      "assets/kırklareli yemkhane mutfak/ekran-goruntusu-2026-09-01-194835.png",
+      "assets/kırklareli yemkhane mutfak/ekran-goruntusu-2026-09-01-194844.png"
+    ]
   }
 ]
