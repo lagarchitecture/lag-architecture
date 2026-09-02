@@ -182,5 +182,32 @@
       "assets/kırklareli yemkhane mutfak/ekran-goruntusu-2026-09-01-194835.png",
       "assets/kırklareli yemkhane mutfak/ekran-goruntusu-2026-09-01-194844.png"
     ]
+  },
+  {
+    "slug": "ofis",
+    "published": true,
+    "title_tr": "İSTANBUL · TÜRKİYE",
+    "title_en": "İSTANBUL · TÜRKİYE",
+    "location_tr": "İSTANBUL · TÜRKİYE",
+    "location_en": "İSTANBUL · TÜRKİYE",
+    "year": "İSTANBUL · TÜRKİYE",
+    "category_tr": "İSTANBUL · TÜRKİYE",
+    "category_en": "İSTANBUL · TÜRKİYE",
+    "cover": "assets/IQVIA OFİS/ekran-goruntusu-2026-09-01-201816.png",
+    "summary_tr": "İSTANBUL · TÜRKİYE",
+    "summary_en": "İSTANBUL · TÜRKİYE",
+    "description_tr": "İSTANBUL · TÜRKİYE",
+    "description_en": "İSTANBUL · TÜRKİYE",
+    "gallery": [
+      "assets/IQVIA OFİS/ekran-goruntusu-2026-09-01-201747.png",
+      "assets/IQVIA OFİS/ekran-goruntusu-2026-09-01-201754.png",
+      "assets/IQVIA OFİS/ekran-goruntusu-2026-09-01-201758.png",
+      "assets/IQVIA OFİS/ekran-goruntusu-2026-09-01-201803.png",
+      "assets/IQVIA OFİS/ekran-goruntusu-2026-09-01-201808.png",
+      "assets/IQVIA OFİS/whatsapp-image-2026-09-01-at-182539-2.jpeg",
+      "assets/IQVIA OFİS/ekran-goruntusu-2026-09-01-201820.png",
+      "assets/IQVIA OFİS/ekran-goruntusu-2026-09-01-201811.png",
+      "assets/IQVIA OFİS/whatsapp-image-2026-09-01-at-182539-3.jpeg"
+    ]
   }
 ]
