@@ -1,23 +1,28 @@
 [
   {
-    "slug": "iqvia-renovasyon-phase-ii",
+    "slug": "perfel-alan",
     "published": true,
-    "title_tr": "KIRKLARELİ FABRİKA SOSYAL ALANI",
-    "title_en": "IQVIA RENOVATION — PHASE II",
+    "title_tr": "Perfektüp Fabrika Sosyal Alanı",
+    "title_en": "Perfektüp Factory Social Space",
     "location_tr": "KIRKLARELİ · TÜRKİYE",
     "location_en": "KIRKLARELİ · TURKEY",
     "year": "2026",
-    "category_tr": "İÇ MİMARLIK · RENOVASYON",
-    "category_en": "INTERIOR ARCHITECTURE · RENOVATION",
+    "category_tr": "İç Mimarlık · Sosyal Alan",
+    "category_en": "Interior Architecture · Social Space",
     "cover": "assets/iqvia.jpg",
-    "summary_tr": "KRIK Renovasyon Projesi; çalışma alanlarını işlev, kullanıcı deneyimi ve uygulama koordinasyonunu birlikte ele alan bütüncül bir yaklaşımla yeniden yorumlar.",
-    "summary_en": "The IQVIA Renovation Project reinterprets workplace environments through an integrated approach to function, user experience and execution coordination.",
-    "description_tr": "Proje; tasarım kararları, teknik koordinasyon ve uygulama sürecinin birlikte yönetildiği bütüncül bir renovasyon yaklaşımıyla ele alınmıştır.",
-    "description_en": "The project was developed through an integrated renovation approach combining design decisions, technical coordination and execution management.",
+    "summary_tr": "Fabrika çalışanlarının gün içinde mola verebileceği, çalışabileceği ve bir araya gelebileceği esnek bir sosyal alan.",
+    "description_tr": "Perfektüp Kırklareli fabrikası içerisinde tasarlanan sosyal alan, çalışanların günün farklı saatlerinde özgürce kullanabileceği ortak bir yaşam alanı olarak ele alındı.\n\nHerhangi bir işletme modeline bağlı olmayan mekânda; kahve ve çay noktası, farklı oturma alternatifleri ve bireysel kullanıma uygun alanlar bir araya getirildi. Çalışanların kısa bir mola vermek, kahvesini içmek, kitap okumak, çalışmak ya da birlikte vakit geçirmek için kullanabileceği esnek ve erişilebilir bir ortam oluşturuldu.\n\nEndüstriyel yapının mevcut karakteri korunurken açıkta bırakılan teknik tesisat, beton yüzeyler ve yüksek hacim; yalın mobilyalar, renk vurguları ve dairesel aydınlatma elemanlarıyla dengelendi. Böylece fabrikanın mimari diliyle bütünleşen, ancak üretim alanlarından farklı bir atmosfere sahip sosyal bir odak yaratıldı.",
+    "description_en": "Designed within Perfektüp's Kırklareli factory, the social space provides employees with an informal shared environment that can be used freely throughout the day.\n\nRather than operating as a commercial café, the space brings together coffee and tea facilities, various seating options and areas suitable for individual use. Employees can take a break, have a coffee, read, work or simply spend time together.\n\nThe existing industrial character of the building was retained through exposed building services, concrete surfaces and the generous ceiling height. Minimal furniture, carefully introduced colour accents and circular lighting elements create a warmer layer within this industrial setting, forming a distinct social hub while remaining connected to the architectural language of the factory.",
     "gallery": [
       "assets/q.jpg",
       "assets/KIRKLARELİ CAFE/chatgpt-image-1-eyl-2026-174457.png",
       "assets/ekran-goruntusu-2026-03-26-105521.png"
+    ],
+    "gallery_layout": [
+      {
+        "size": "large",
+        "align": "left"
+      }
     ]
   },
   {
@@ -79,10 +84,10 @@
     "category_tr": "Endüstriyel Mimari / Üretim Tesisi",
     "category_en": "Industrial Architecture / Production Facility",
     "cover": "assets/ZEYTİNYAĞ/1.png",
-    "summary_tr": "Doğal peyzajla bütünleşen, işlevsel ve zamansız bir üretim yapısı.",
-    "summary_en": "Where industrial function meets the natural landscape.",
-    "description_tr": "Çanakkale’nin zeytinliklerle çevrili doğal dokusu içerisinde konumlanan üretim tesisi, işlevsel gereksinimleri yalın ve zamansız bir mimari dille bir araya getiriyor. Üretim, depolama ve servis alanları; güçlü bir operasyonel kurgu, kontrollü malzeme paleti ve peyzajla kurulan bütüncül ilişki üzerinden ele alındı.",
-    "description_en": "Set within the olive groves of Çanakkale, the production facility combines operational efficiency with a restrained and timeless architectural language. Production, storage, and service areas are carefully organized, while the material palette and landscape design establish a subtle dialogue between the industrial structure and its natural surroundings.",
+    "summary_tr": "Çanakkale’de bir zeytinlik içerisinde konumlanan üretim tesisi; işlevsel üretim süreçlerini, yalın bir mimari dil ve çevresindeki doğal doku ile birlikte ele alıyor.",
+    "summary_en": "Set within an olive grove in Çanakkale, the production facility combines functional manufacturing processes with a restrained architectural language that responds to its natural surroundings.",
+    "description_tr": "Çanakkale’de mevcut bir zeytinlik içerisinde tasarlanan zeytinyağı fabrikası, üretim yapısının teknik gereklilikleri ile bulunduğu doğal çevre arasında dengeli bir ilişki kurma fikri üzerine geliştirildi.\n\nYapının kütlesi; üretim, servis ve lojistik ihtiyaçlarının oluşturduğu işlevsel gereksinimler doğrultusunda yalın ve okunabilir bir geometrik kurguya sahip. Geniş açıklıklar ve servis alanları üretim akışını desteklerken, cephede oluşturulan geri çekilmeler ve belirgin çerçeve elemanları büyük ölçekli endüstriyel kütleyi parçalayarak insan ölçeğine yaklaştırıyor.\n\nCephede kullanılan doğal ve nötr tonlar yapının zeytinlik dokusuyla sakin bir ilişki kurmasını sağlarken, kırmızı çerçeve ve düşey yeşil teknik elemanlar endüstriyel karakteri görünür kılan kontrollü vurgular olarak ele alındı.\n\nPeyzaj tasarımında zeytinlik karakterinin devamlılığı esas alınarak yapı çevresinde yoğun ve dekoratif bir peyzaj oluşturmak yerine, bölgenin doğal dokusuyla bütünleşen sade bir yaklaşım benimsendi. Böylece fabrika, çevresinden kopuk bir üretim yapısı yerine üretim süreci ile bulunduğu coğrafya arasında bağ kuran çağdaş bir endüstriyel yapı olarak ele alındı.",
+    "description_en": "Located within an olive grove in Çanakkale, the olive oil production facility was designed around establishing a balanced relationship between the technical requirements of an industrial building and its natural setting.\n\nThe building is defined by a clear geometric massing shaped by production, service and logistics requirements. Large openings and service areas support the operational flow, while recessed façade elements and articulated frames break down the scale of the industrial volume.\n\nA restrained palette of natural and neutral tones establishes a calm relationship with the surrounding olive landscape. The red frame and vertical green technical elements are introduced as controlled accents that express the building's industrial identity.\n\nThe landscape strategy prioritises the continuity of the existing olive grove rather than creating a highly ornamental setting around the building. The result is a contemporary production facility conceived not as an isolated industrial object, but as an architecture that establishes a direct relationship between production, landscape and place.",
     "gallery": [
       "assets/ZEYTİNYAĞ/2.png",
       "assets/ZEYTİNYAĞ/3.png",
@@ -92,30 +97,44 @@
   {
     "slug": "iqvia-giris",
     "published": true,
-    "title_tr": "IQVIA Giriş/Karşılama Alanı ",
+    "title_tr": "IQVIA Karşılama Alanı",
+    "title_en": "IQVIA Reception Area",
     "location_tr": "İSTANBUL · TÜRKİYE",
     "location_en": "İSTANBUL · TÜRKİYE",
     "year": "2026",
-    "category_tr": "Renovasyon",
-    "category_en": "Renovation",
+    "category_tr": "İç Mimarlık · Renovasyon",
+    "category_en": "Interior Architecture · Renovation",
     "cover": "assets/IQVIA GİRİŞ/dji202608221103570265d.jpg",
-    "summary_tr": "Kurumsal kimliği çağdaş bir mekânsal dille yeniden yorumlayan giriş ve karşılama alanı.",
-    "summary_en": "A contemporary entrance and reception space shaped around the company’s corporate identity.",
-    "description_tr": "Mevcut plaza içerisinde yer alan giriş ve karşılama alanı, firmanın kurumsal kimliğini daha güçlü ve çağdaş bir mekânsal deneyime dönüştürmek amacıyla yeniden ele alındı. Malzeme, aydınlatma ve detay çözümleri; yalın, işlevsel ve davetkâr bir karşılama atmosferi oluşturacak şekilde kurgulandı.",
-    "description_en": "The existing entrance and reception area was redesigned to create a stronger and more contemporary spatial expression of the company’s identity. Materials, lighting, and architectural details were carefully considered to establish a refined, functional, and welcoming arrival experience.",
+    "summary_tr": "Dar ve düzensiz geometrili mevcut giriş alanı; yansıtıcı yüzeyler, lineer duvar kurgusu ve bitkisel öğelerle daha ferah ve tanımlı bir karşılama mekânına dönüştürüldü.",
+    "summary_en": "A narrow and irregular entrance was transformed into a more spacious and defined reception area through reflective surfaces, linear wall detailing and integrated greenery.",
+    "description_tr": "Maslak’ta bulunan IQVIA ofisinin karşılama alanı, mevcut girişin dar ve düzensiz geometrisini daha okunabilir ve ferah bir mekânsal kurguya dönüştürmek amacıyla yeniden ele alındı.\n\nGiriş aksı boyunca oluşturulan MDF esaslı duvar yüzeyi, diyagonal çizgilerle hareketlendirilerek uzun ve dar koridor etkisi kırıldı. Yüzey üzerine yerleştirilen ayna krom IQVIA logosu, kurumsal kimliği mekânın mimari diliyle bütünleştiren odak elemanı olarak tasarlandı.\n\nMekânın sınırlı genişliğini görsel olarak artırmak amacıyla karşı duvarda geniş ayna yüzeylerine yer verildi. Aynalar yalnızca mekânı olduğundan daha geniş algılatmak için değil; ışığı, logoyu ve bitkisel öğeleri farklı açılardan yeniden mekâna taşıyan bir tasarım aracı olarak kullanıldı.\n\nBekleme alanında kullanılan yalın mobilyalar ve yoğun yeşil bitkilendirme, sert ve yansıtıcı yüzeyleri dengeleyerek girişe daha sıcak bir karakter kazandırdı. Aydınlatma ise duvar dokusunu ve kurumsal kimlik elemanlarını öne çıkaracak şekilde kurgulandı.",
+    "description_en": "The reception area of IQVIA’s Maslak office was redesigned to transform the existing narrow and irregular entrance into a clearer and more spacious spatial sequence.\n\nAn MDF-based wall surface extends along the entrance axis, articulated with diagonal detailing to reduce the corridor-like perception of the space. The mirror-finished chrome IQVIA signage was integrated into this surface as a focal element connecting the company’s visual identity with the architectural language.\n\nLarge mirrored surfaces were introduced on the opposite wall to visually expand the limited width of the entrance. Beyond creating a greater sense of depth, the mirrors reflect light, signage and greenery back into the space, becoming an active part of the spatial composition.\n\nMinimal waiting furniture and dense planting soften the reflective architectural surfaces and introduce a warmer layer to the reception area, while the lighting scheme emphasises the wall texture and corporate identity elements.",
     "gallery": [
       "assets/IQVIA GİRİŞ/ekran-goruntusu-2026-09-01-192506.png",
       "assets/IQVIA GİRİŞ/ekran-goruntusu-2026-09-01-192531.png",
       "assets/IQVIA GİRİŞ/ekran-goruntusu-2026-09-01-192543.png",
       "assets/IQVIA GİRİŞ/ekran-goruntusu-2026-09-01-192555.png",
       "assets/IQVIA GİRİŞ/ekran-goruntusu-2026-09-01-192717.png"
+    ],
+    "gallery_layout": [
+      {}
     ]
   },
   {
     "slug": "fabrika-giris",
     "published": true,
-    "title_tr": "fabrika-giris",
+    "title_tr": "Perfektüp Karşılama Alanı",
+    "title_en": "Perfektüp Reception Area",
+    "location_tr": "KIRKLARELİ · TÜRKİYE",
+    "location_en": "KIRKLARELİ · TÜRKİYE",
+    "year": "2025",
+    "category_tr": "İç Mimarlık · Kurumsal Mekân",
+    "category_en": "Interior Architecture · Corporate Space",
     "cover": "assets/perf fabrika giriş/ekran-goruntusu-2026-09-01-193845.png",
+    "summary_tr": "Merkezi resepsiyon kurgusu ve galeri boşluğunda farklı açılarda konumlanan lineer aydınlatmalarla tanımlanan, ferah ve güçlü bir kurumsal karşılama alanı.",
+    "summary_en": "A spacious corporate reception defined by a central reception desk and a composition of linear lighting elements suspended at varying angles within the double-height void.",
+    "description_tr": "Perfektüp Kırklareli tesisinin karşılama alanı, yapıya girişte güçlü ve net bir kurumsal odak oluşturmak amacıyla tasarlandı. Geniş resepsiyon bankosu ve marka logosu ana görüş aksına yerleştirilerek ziyaretçinin mekâna giriş anından itibaren kolay algılanan bir karşılama noktası oluşturuldu.\n\nMekânın çift yükseklikli galeri boşluğu, tasarımın belirleyici unsurlarından biri olarak ele alındı. Farklı uzunluklardaki lineer aydınlatma elemanları değişen açılarda ve kotlarda asılarak geniş düşey hacim içerisinde dinamik bir kompozisyon oluşturuldu. Bu kurgu, galeri boşluğunun ölçeğini vurgularken resepsiyon alanını üst hacimle görsel olarak ilişkilendiriyor.\n\nCam yüzeyler ve açık görüş aksları mekânsal sürekliliği desteklerken; ahşap, koyu yüzeyler ve mevcut beton elemanlar arasında kurulan malzeme dengesi kurumsal ancak sıcak bir atmosfer oluşturuyor. Doğal ışığın iç mekâna güçlü biçimde alınması ve dolaşım alanlarının mümkün olduğunca açık tutulmasıyla ferah, okunabilir ve yalın bir giriş mekânı elde edildi.",
+    "description_en": "The reception area of Perfektüp’s Kırklareli facility was designed to establish a clear and distinctive corporate focal point upon entry. The large reception desk and company signage are positioned along the primary visual axis, creating an immediately recognisable point of arrival.\n\nThe double-height void above the reception was treated as a defining architectural element of the space. Linear lighting elements of varying lengths are suspended at different angles and heights, creating a dynamic composition within the vertical volume. This installation emphasises the scale of the void while visually connecting the reception area with the upper level.\n\nTransparent surfaces and open sightlines reinforce spatial continuity, while the combination of timber, dark finishes and exposed concrete creates a balance between corporate identity and material warmth. Natural light and unobstructed circulation further contribute to a reception environment that feels spacious, clear and refined.",
     "gallery": [
       "assets/perf fabrika giriş/ekran-goruntusu-2026-09-01-193857.png",
       "assets/perf fabrika giriş/ekran-goruntusu-2026-09-01-194003.png",
@@ -129,7 +148,7 @@
   },
   {
     "slug": "perf-ofis",
-    "published": true,
+    "published": false,
     "title_tr": "Perfektüp Ofis Alanları",
     "title_en": "Perfektüp Ofis Alanları",
     "cover": "assets/kırklareli ofis koridor/ekran-goruntusu-2026-09-01-194257.png",
@@ -163,7 +182,7 @@
   },
   {
     "slug": "yemekhane",
-    "published": true,
+    "published": false,
     "title_tr": "Yemekhane",
     "title_en": "İSTANBUL · TÜRKİYE",
     "location_tr": "İSTANBUL · TÜRKİYE",
@@ -212,7 +231,7 @@
   },
   {
     "slug": "proje",
-    "published": true,
+    "published": false,
     "title_tr": "proje",
     "title_en": "proje",
     "cover": "assets/GÜN BATIMI VİLLA/chatgpt-image-2-eyl-2026-163853.png",
