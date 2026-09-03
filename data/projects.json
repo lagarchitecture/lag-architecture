@@ -209,5 +209,17 @@
       "assets/IQVIA OFİS/ekran-goruntusu-2026-09-01-201811.png",
       "assets/IQVIA OFİS/whatsapp-image-2026-09-01-at-182539-3.jpeg"
     ]
+  },
+  {
+    "slug": "proje",
+    "published": true,
+    "title_tr": "proje",
+    "title_en": "proje",
+    "cover": "assets/GÜN BATIMI VİLLA/chatgpt-image-2-eyl-2026-163853.png",
+    "gallery": [
+      "assets/GÜN BATIMI VİLLA/chatgpt-image-2-eyl-2026-163241.png",
+      "assets/GÜN BATIMI VİLLA/chatgpt-image-2-eyl-2026-164019.png",
+      "assets/GÜN BATIMI VİLLA/chatgpt-image-2-eyl-2026-164106.png"
+    ]
   }
 ]
