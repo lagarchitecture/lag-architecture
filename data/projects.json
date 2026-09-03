@@ -27,24 +27,29 @@
     ]
   },
   {
-    "slug": "villa",
+    "slug": "fabrika-giris",
     "published": true,
-    "title_tr": "Bağ Evi",
-    "title_en": "Vineyard House",
-    "location_tr": "MUĞLA · TÜRKİYE",
-    "location_en": "MUĞLA · TÜRKİYE",
+    "title_tr": "Perfektüp Karşılama Alanı",
+    "title_en": "Perfektüp Reception Area",
+    "location_tr": "KIRKLARELİ · TÜRKİYE",
+    "location_en": "KIRKLARELİ · TÜRKİYE",
     "year": "2025",
-    "category_tr": "Konut · Mimari Tasarım",
-    "category_en": "Residential · Architectural Design",
-    "cover": "assets/BAĞ EVİ/ekran-goruntusu-2026-09-03-162616.png",
-    "summary_tr": "Doğal peyzaj içerisinde yatay bir düzlem olarak kurgulanan bağ evi; geniş saçakları, geçirgen cepheleri ve doğal malzeme paletiyle iç ve dış mekân arasındaki sınırı azaltıyor.",
-    "summary_en": "Conceived as a horizontal plane within the natural landscape, the Vineyard House blurs the boundary between indoors and outdoors through deep overhangs, transparent façades and a restrained natural material palette.",
-    "description_tr": "Bağ Evi, yapının çevresindeki doğal peyzajla mümkün olduğunca güçlü bir ilişki kurması fikri üzerinden tasarlandı. Tek katlı ve yatay kütle organizasyonu, yapının bulunduğu çevrede baskın bir obje oluşturmak yerine peyzajın bir parçası olarak algılanmasını amaçlıyor.\n\nGeniş saçak, yapının temel mimari elemanı olarak ele alındı. İç mekânın devamı niteliğindeki yarı açık yaşam alanını tanımlayan bu üst örtü, aynı zamanda cepheleri doğrudan güneş etkisinden koruyarak kontrollü bir iç-dış mekân ilişkisi oluşturuyor. Geniş cam açıklıklar yaşam alanlarını bahçeye yönlendirirken, ince kesitli koyu renk taşıyıcılar yapının yatay karakterini güçlendiriyor.\n\nDoğal taş yüzeyler, ahşap ve sıcak toprak tonları çevredeki bitki dokusuyla ilişki kuracak şekilde bir araya getirildi. Peyzaj ise yapının çevresine sonradan eklenen dekoratif bir unsur olarak değil, mimari kurgunun devamı olarak ele alındı.\n\nSonuçta yapı; yalın geometrisi, korunaklı açık alanları ve peyzajla kurduğu süreklilik üzerinden sakin bir kırsal yaşam deneyimi sunacak şekilde tasarlandı.",
-    "description_en": "Vineyard House was designed around establishing a strong relationship between architecture and its surrounding landscape. Its single-storey horizontal composition allows the building to settle into the site rather than dominate its natural setting.\n\nA generous overhanging roof acts as one of the defining architectural elements of the project. Extending the interior living spaces into a sheltered outdoor zone, it provides solar protection while creating a gradual transition between inside and outside. Large glazed openings orient the living areas towards the garden, while slender dark structural elements reinforce the horizontal expression of the building.\n\nNatural stone, timber and warm earth tones establish a material dialogue with the surrounding vegetation. Rather than being treated as a decorative layer around the building, the landscape is conceived as a continuation of the architectural composition.\n\nThe result is a restrained rural residence defined by simple geometry, sheltered outdoor living and a continuous relationship with the landscape.",
+    "category_tr": "İç Mimarlık · Kurumsal Mekân",
+    "category_en": "Interior Architecture · Corporate Space",
+    "cover": "assets/perf fabrika giriş/ekran-goruntusu-2026-09-01-193845.png",
+    "summary_tr": "Merkezi resepsiyon kurgusu ve galeri boşluğunda farklı açılarda konumlanan lineer aydınlatmalarla tanımlanan, ferah ve güçlü bir kurumsal karşılama alanı.",
+    "summary_en": "A spacious corporate reception defined by a central reception desk and a composition of linear lighting elements suspended at varying angles within the double-height void.",
+    "description_tr": "Perfektüp Kırklareli tesisinin karşılama alanı, yapıya girişte güçlü ve net bir kurumsal odak oluşturmak amacıyla tasarlandı. Geniş resepsiyon bankosu ve marka logosu ana görüş aksına yerleştirilerek ziyaretçinin mekâna giriş anından itibaren kolay algılanan bir karşılama noktası oluşturuldu.\n\nMekânın çift yükseklikli galeri boşluğu, tasarımın belirleyici unsurlarından biri olarak ele alındı. Farklı uzunluklardaki lineer aydınlatma elemanları değişen açılarda ve kotlarda asılarak geniş düşey hacim içerisinde dinamik bir kompozisyon oluşturuldu. Bu kurgu, galeri boşluğunun ölçeğini vurgularken resepsiyon alanını üst hacimle görsel olarak ilişkilendiriyor.\n\nCam yüzeyler ve açık görüş aksları mekânsal sürekliliği desteklerken; ahşap, koyu yüzeyler ve mevcut beton elemanlar arasında kurulan malzeme dengesi kurumsal ancak sıcak bir atmosfer oluşturuyor. Doğal ışığın iç mekâna güçlü biçimde alınması ve dolaşım alanlarının mümkün olduğunca açık tutulmasıyla ferah, okunabilir ve yalın bir giriş mekânı elde edildi.",
+    "description_en": "The reception area of Perfektüp’s Kırklareli facility was designed to establish a clear and distinctive corporate focal point upon entry. The large reception desk and company signage are positioned along the primary visual axis, creating an immediately recognisable point of arrival.\n\nThe double-height void above the reception was treated as a defining architectural element of the space. Linear lighting elements of varying lengths are suspended at different angles and heights, creating a dynamic composition within the vertical volume. This installation emphasises the scale of the void while visually connecting the reception area with the upper level.\n\nTransparent surfaces and open sightlines reinforce spatial continuity, while the combination of timber, dark finishes and exposed concrete creates a balance between corporate identity and material warmth. Natural light and unobstructed circulation further contribute to a reception environment that feels spacious, clear and refined.",
     "gallery": [
-      "assets/BAĞ EVİ/ekran-goruntusu-2026-09-03-162632.png",
-      "assets/BAĞ EVİ/ekran-goruntusu-2026-09-03-162642.png",
-      "assets/BAĞ EVİ/ekran-goruntusu-2026-09-03-162658.png"
+      "assets/perf fabrika giriş/ekran-goruntusu-2026-09-01-193857.png",
+      "assets/perf fabrika giriş/ekran-goruntusu-2026-09-01-194003.png",
+      "assets/perf fabrika giriş/ekran-goruntusu-2026-09-01-194029.png",
+      "assets/perf fabrika giriş/ekran-goruntusu-2026-09-01-194041.png",
+      "assets/perf fabrika giriş/ekran-goruntusu-2026-09-01-200235.png",
+      "assets/perf fabrika giriş/ekran-goruntusu-2026-09-01-200242.png",
+      "assets/perf fabrika giriş/ekran-goruntusu-2026-09-01-200250.png",
+      "assets/perf fabrika giriş/ekran-goruntusu-2026-09-01-193753.png"
     ]
   },
   {
@@ -75,27 +80,6 @@
       "assets/kırklareli genel alanlar/ekran-goruntusu-2026-09-01-195659.png",
       "assets/kırklareli genel alanlar/ekran-goruntusu-2026-09-01-195545.png",
       "assets/kırklareli genel alanlar/ekran-goruntusu-2026-09-01-195649.png"
-    ]
-  },
-  {
-    "slug": "canakkale-zeytinyag",
-    "published": true,
-    "title_tr": "ÇANAKKALE ZEYTİNYAĞ FABRİKASI",
-    "title_en": "ÇANAKKALE OLIVE OIL FACTORY",
-    "location_tr": "ÇANAKKALE · TÜRKİYE",
-    "location_en": "ÇANAKKALE · TÜRKİYE",
-    "year": "2024",
-    "category_tr": "Endüstriyel Mimari / Üretim Tesisi",
-    "category_en": "Industrial Architecture / Production Facility",
-    "cover": "assets/ZEYTİNYAĞ/1.png",
-    "summary_tr": "Çanakkale’de bir zeytinlik içerisinde konumlanan üretim tesisi; işlevsel üretim süreçlerini, yalın bir mimari dil ve çevresindeki doğal doku ile birlikte ele alıyor.",
-    "summary_en": "Set within an olive grove in Çanakkale, the production facility combines functional manufacturing processes with a restrained architectural language that responds to its natural surroundings.",
-    "description_tr": "Çanakkale’de mevcut bir zeytinlik içerisinde tasarlanan zeytinyağı fabrikası, üretim yapısının teknik gereklilikleri ile bulunduğu doğal çevre arasında dengeli bir ilişki kurma fikri üzerine geliştirildi.\n\nYapının kütlesi; üretim, servis ve lojistik ihtiyaçlarının oluşturduğu işlevsel gereksinimler doğrultusunda yalın ve okunabilir bir geometrik kurguya sahip. Geniş açıklıklar ve servis alanları üretim akışını desteklerken, cephede oluşturulan geri çekilmeler ve belirgin çerçeve elemanları büyük ölçekli endüstriyel kütleyi parçalayarak insan ölçeğine yaklaştırıyor.\n\nCephede kullanılan doğal ve nötr tonlar yapının zeytinlik dokusuyla sakin bir ilişki kurmasını sağlarken, kırmızı çerçeve ve düşey yeşil teknik elemanlar endüstriyel karakteri görünür kılan kontrollü vurgular olarak ele alındı.\n\nPeyzaj tasarımında zeytinlik karakterinin devamlılığı esas alınarak yapı çevresinde yoğun ve dekoratif bir peyzaj oluşturmak yerine, bölgenin doğal dokusuyla bütünleşen sade bir yaklaşım benimsendi. Böylece fabrika, çevresinden kopuk bir üretim yapısı yerine üretim süreci ile bulunduğu coğrafya arasında bağ kuran çağdaş bir endüstriyel yapı olarak ele alındı.",
-    "description_en": "Located within an olive grove in Çanakkale, the olive oil production facility was designed around establishing a balanced relationship between the technical requirements of an industrial building and its natural setting.\n\nThe building is defined by a clear geometric massing shaped by production, service and logistics requirements. Large openings and service areas support the operational flow, while recessed façade elements and articulated frames break down the scale of the industrial volume.\n\nA restrained palette of natural and neutral tones establishes a calm relationship with the surrounding olive landscape. The red frame and vertical green technical elements are introduced as controlled accents that express the building's industrial identity.\n\nThe landscape strategy prioritises the continuity of the existing olive grove rather than creating a highly ornamental setting around the building. The result is a contemporary production facility conceived not as an isolated industrial object, but as an architecture that establishes a direct relationship between production, landscape and place.",
-    "gallery": [
-      "assets/ZEYTİNYAĞ/2.png",
-      "assets/ZEYTİNYAĞ/3.png",
-      "assets/ZEYTİNYAĞ/4.png"
     ]
   },
   {
@@ -152,29 +136,45 @@
     ]
   },
   {
-    "slug": "fabrika-giris",
+    "slug": "canakkale-zeytinyag",
     "published": true,
-    "title_tr": "Perfektüp Karşılama Alanı",
-    "title_en": "Perfektüp Reception Area",
-    "location_tr": "KIRKLARELİ · TÜRKİYE",
-    "location_en": "KIRKLARELİ · TÜRKİYE",
-    "year": "2025",
-    "category_tr": "İç Mimarlık · Kurumsal Mekân",
-    "category_en": "Interior Architecture · Corporate Space",
-    "cover": "assets/perf fabrika giriş/ekran-goruntusu-2026-09-01-193845.png",
-    "summary_tr": "Merkezi resepsiyon kurgusu ve galeri boşluğunda farklı açılarda konumlanan lineer aydınlatmalarla tanımlanan, ferah ve güçlü bir kurumsal karşılama alanı.",
-    "summary_en": "A spacious corporate reception defined by a central reception desk and a composition of linear lighting elements suspended at varying angles within the double-height void.",
-    "description_tr": "Perfektüp Kırklareli tesisinin karşılama alanı, yapıya girişte güçlü ve net bir kurumsal odak oluşturmak amacıyla tasarlandı. Geniş resepsiyon bankosu ve marka logosu ana görüş aksına yerleştirilerek ziyaretçinin mekâna giriş anından itibaren kolay algılanan bir karşılama noktası oluşturuldu.\n\nMekânın çift yükseklikli galeri boşluğu, tasarımın belirleyici unsurlarından biri olarak ele alındı. Farklı uzunluklardaki lineer aydınlatma elemanları değişen açılarda ve kotlarda asılarak geniş düşey hacim içerisinde dinamik bir kompozisyon oluşturuldu. Bu kurgu, galeri boşluğunun ölçeğini vurgularken resepsiyon alanını üst hacimle görsel olarak ilişkilendiriyor.\n\nCam yüzeyler ve açık görüş aksları mekânsal sürekliliği desteklerken; ahşap, koyu yüzeyler ve mevcut beton elemanlar arasında kurulan malzeme dengesi kurumsal ancak sıcak bir atmosfer oluşturuyor. Doğal ışığın iç mekâna güçlü biçimde alınması ve dolaşım alanlarının mümkün olduğunca açık tutulmasıyla ferah, okunabilir ve yalın bir giriş mekânı elde edildi.",
-    "description_en": "The reception area of Perfektüp’s Kırklareli facility was designed to establish a clear and distinctive corporate focal point upon entry. The large reception desk and company signage are positioned along the primary visual axis, creating an immediately recognisable point of arrival.\n\nThe double-height void above the reception was treated as a defining architectural element of the space. Linear lighting elements of varying lengths are suspended at different angles and heights, creating a dynamic composition within the vertical volume. This installation emphasises the scale of the void while visually connecting the reception area with the upper level.\n\nTransparent surfaces and open sightlines reinforce spatial continuity, while the combination of timber, dark finishes and exposed concrete creates a balance between corporate identity and material warmth. Natural light and unobstructed circulation further contribute to a reception environment that feels spacious, clear and refined.",
+    "title_tr": "ÇANAKKALE ZEYTİNYAĞ FABRİKASI",
+    "title_en": "ÇANAKKALE OLIVE OIL FACTORY",
+    "location_tr": "ÇANAKKALE · TÜRKİYE",
+    "location_en": "ÇANAKKALE · TÜRKİYE",
+    "year": "2024",
+    "category_tr": "Endüstriyel Mimari / Üretim Tesisi",
+    "category_en": "Industrial Architecture / Production Facility",
+    "cover": "assets/ZEYTİNYAĞ/1.png",
+    "summary_tr": "Çanakkale’de bir zeytinlik içerisinde konumlanan üretim tesisi; işlevsel üretim süreçlerini, yalın bir mimari dil ve çevresindeki doğal doku ile birlikte ele alıyor.",
+    "summary_en": "Set within an olive grove in Çanakkale, the production facility combines functional manufacturing processes with a restrained architectural language that responds to its natural surroundings.",
+    "description_tr": "Çanakkale’de mevcut bir zeytinlik içerisinde tasarlanan zeytinyağı fabrikası, üretim yapısının teknik gereklilikleri ile bulunduğu doğal çevre arasında dengeli bir ilişki kurma fikri üzerine geliştirildi.\n\nYapının kütlesi; üretim, servis ve lojistik ihtiyaçlarının oluşturduğu işlevsel gereksinimler doğrultusunda yalın ve okunabilir bir geometrik kurguya sahip. Geniş açıklıklar ve servis alanları üretim akışını desteklerken, cephede oluşturulan geri çekilmeler ve belirgin çerçeve elemanları büyük ölçekli endüstriyel kütleyi parçalayarak insan ölçeğine yaklaştırıyor.\n\nCephede kullanılan doğal ve nötr tonlar yapının zeytinlik dokusuyla sakin bir ilişki kurmasını sağlarken, kırmızı çerçeve ve düşey yeşil teknik elemanlar endüstriyel karakteri görünür kılan kontrollü vurgular olarak ele alındı.\n\nPeyzaj tasarımında zeytinlik karakterinin devamlılığı esas alınarak yapı çevresinde yoğun ve dekoratif bir peyzaj oluşturmak yerine, bölgenin doğal dokusuyla bütünleşen sade bir yaklaşım benimsendi. Böylece fabrika, çevresinden kopuk bir üretim yapısı yerine üretim süreci ile bulunduğu coğrafya arasında bağ kuran çağdaş bir endüstriyel yapı olarak ele alındı.",
+    "description_en": "Located within an olive grove in Çanakkale, the olive oil production facility was designed around establishing a balanced relationship between the technical requirements of an industrial building and its natural setting.\n\nThe building is defined by a clear geometric massing shaped by production, service and logistics requirements. Large openings and service areas support the operational flow, while recessed façade elements and articulated frames break down the scale of the industrial volume.\n\nA restrained palette of natural and neutral tones establishes a calm relationship with the surrounding olive landscape. The red frame and vertical green technical elements are introduced as controlled accents that express the building's industrial identity.\n\nThe landscape strategy prioritises the continuity of the existing olive grove rather than creating a highly ornamental setting around the building. The result is a contemporary production facility conceived not as an isolated industrial object, but as an architecture that establishes a direct relationship between production, landscape and place.",
     "gallery": [
-      "assets/perf fabrika giriş/ekran-goruntusu-2026-09-01-193857.png",
-      "assets/perf fabrika giriş/ekran-goruntusu-2026-09-01-194003.png",
-      "assets/perf fabrika giriş/ekran-goruntusu-2026-09-01-194029.png",
-      "assets/perf fabrika giriş/ekran-goruntusu-2026-09-01-194041.png",
-      "assets/perf fabrika giriş/ekran-goruntusu-2026-09-01-200235.png",
-      "assets/perf fabrika giriş/ekran-goruntusu-2026-09-01-200242.png",
-      "assets/perf fabrika giriş/ekran-goruntusu-2026-09-01-200250.png",
-      "assets/perf fabrika giriş/ekran-goruntusu-2026-09-01-193753.png"
+      "assets/ZEYTİNYAĞ/2.png",
+      "assets/ZEYTİNYAĞ/3.png",
+      "assets/ZEYTİNYAĞ/4.png"
+    ]
+  },
+  {
+    "slug": "villa",
+    "published": true,
+    "title_tr": "Bağ Evi",
+    "title_en": "Vineyard House",
+    "location_tr": "MUĞLA · TÜRKİYE",
+    "location_en": "MUĞLA · TÜRKİYE",
+    "year": "2025",
+    "category_tr": "Konut · Mimari Tasarım",
+    "category_en": "Residential · Architectural Design",
+    "cover": "assets/BAĞ EVİ/ekran-goruntusu-2026-09-03-162616.png",
+    "summary_tr": "Doğal peyzaj içerisinde yatay bir düzlem olarak kurgulanan bağ evi; geniş saçakları, geçirgen cepheleri ve doğal malzeme paletiyle iç ve dış mekân arasındaki sınırı azaltıyor.",
+    "summary_en": "Conceived as a horizontal plane within the natural landscape, the Vineyard House blurs the boundary between indoors and outdoors through deep overhangs, transparent façades and a restrained natural material palette.",
+    "description_tr": "Bağ Evi, yapının çevresindeki doğal peyzajla mümkün olduğunca güçlü bir ilişki kurması fikri üzerinden tasarlandı. Tek katlı ve yatay kütle organizasyonu, yapının bulunduğu çevrede baskın bir obje oluşturmak yerine peyzajın bir parçası olarak algılanmasını amaçlıyor.\n\nGeniş saçak, yapının temel mimari elemanı olarak ele alındı. İç mekânın devamı niteliğindeki yarı açık yaşam alanını tanımlayan bu üst örtü, aynı zamanda cepheleri doğrudan güneş etkisinden koruyarak kontrollü bir iç-dış mekân ilişkisi oluşturuyor. Geniş cam açıklıklar yaşam alanlarını bahçeye yönlendirirken, ince kesitli koyu renk taşıyıcılar yapının yatay karakterini güçlendiriyor.\n\nDoğal taş yüzeyler, ahşap ve sıcak toprak tonları çevredeki bitki dokusuyla ilişki kuracak şekilde bir araya getirildi. Peyzaj ise yapının çevresine sonradan eklenen dekoratif bir unsur olarak değil, mimari kurgunun devamı olarak ele alındı.\n\nSonuçta yapı; yalın geometrisi, korunaklı açık alanları ve peyzajla kurduğu süreklilik üzerinden sakin bir kırsal yaşam deneyimi sunacak şekilde tasarlandı.",
+    "description_en": "Vineyard House was designed around establishing a strong relationship between architecture and its surrounding landscape. Its single-storey horizontal composition allows the building to settle into the site rather than dominate its natural setting.\n\nA generous overhanging roof acts as one of the defining architectural elements of the project. Extending the interior living spaces into a sheltered outdoor zone, it provides solar protection while creating a gradual transition between inside and outside. Large glazed openings orient the living areas towards the garden, while slender dark structural elements reinforce the horizontal expression of the building.\n\nNatural stone, timber and warm earth tones establish a material dialogue with the surrounding vegetation. Rather than being treated as a decorative layer around the building, the landscape is conceived as a continuation of the architectural composition.\n\nThe result is a restrained rural residence defined by simple geometry, sheltered outdoor living and a continuous relationship with the landscape.",
+    "gallery": [
+      "assets/BAĞ EVİ/ekran-goruntusu-2026-09-03-162632.png",
+      "assets/BAĞ EVİ/ekran-goruntusu-2026-09-03-162642.png",
+      "assets/BAĞ EVİ/ekran-goruntusu-2026-09-03-162658.png"
     ]
   },
   {
