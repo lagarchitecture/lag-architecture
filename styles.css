@@ -49,3 +49,50 @@
   .project figure{aspect-ratio:4/3 !important;}
   .project figure img{width:100% !important;height:100% !important;object-fit:cover !important;}
 }
+
+
+/* V11 — COMPACT EDITORIAL PROJECT GRID */
+@media (min-width: 761px){
+  #projects .grid,
+  .projects .grid,
+  .grid{
+    grid-template-columns:repeat(2,minmax(0,1fr)) !important;
+    gap:22px !important;
+  }
+
+  #projects .project,
+  .projects .project,
+  .grid > .project,
+  .project,
+  .project:nth-child(n){
+    grid-column:auto !important;
+    margin-bottom:30px !important;
+  }
+
+  .project figure,
+  .project:nth-child(n) figure{
+    width:100% !important;
+    aspect-ratio:2.15 / 1 !important;
+    overflow:hidden !important;
+    background:#1d1e20;
+  }
+
+  .project figure img,
+  .project img,
+  .project:nth-child(n) img{
+    width:100% !important;
+    height:100% !important;
+    object-fit:cover !important;
+  }
+
+  .project .meta{
+    margin-top:12px !important;
+  }
+}
+
+/* Mobile stays more generous so images remain readable */
+@media (max-width:760px){
+  .project figure{
+    aspect-ratio:4/3 !important;
+  }
+}
