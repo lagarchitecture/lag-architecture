@@ -304,3 +304,45 @@ content:
           unique: true
           extensions: [jpg, jpeg, png, webp]
           rename: safe
+      - name: gallery_layout
+        label: Galeri Görsel Ayarları
+        type: object
+        description: Galerideki görsellerle aynı sırada ayar ekleyin. 1. ayar = 1. görsel, 2. ayar = 2. görsel. Ayar eklemezseniz otomatik düzen kullanılır.
+        list:
+          max: 50
+          collapsible:
+            collapsed: true
+            summary: "Görsel {index} — {size} / {align}"
+        fields:
+          - name: size
+            label: Görsel Boyutu
+            type: select
+            options:
+              values:
+                - name: full
+                  label: Tam Genişlik
+                - name: large
+                  label: Büyük (%75)
+                - name: medium
+                  label: Orta (%58)
+                - name: small
+                  label: Küçük (%40)
+                - name: pair
+                  label: İkili (yan yana)
+          - name: align
+            label: Hizalama
+            type: select
+            options:
+              values:
+                - name: left
+                  label: Sol
+                - name: center
+                  label: Orta
+                - name: right
+                  label: Sağ
+          - name: caption_tr
+            label: Görsel Alt Yazısı (TR) — isteğe bağlı
+            type: string
+          - name: caption_en
+            label: Görsel Alt Yazısı (EN) — isteğe bağlı
+            type: string
