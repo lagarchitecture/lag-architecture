@@ -16,7 +16,8 @@
     "gallery": [
       "assets/q.jpg",
       "assets/KIRKLARELİ CAFE/chatgpt-image-1-eyl-2026-174457.png",
-      "assets/ekran-goruntusu-2026-03-26-105521.png"
+      "assets/ekran-goruntusu-2026-03-26-105521.png",
+      "assets/KIRKLARELİ CAFE/whatsapp-image-2026-09-03-at-152448.jpeg"
     ],
     "gallery_layout": [
       {
@@ -28,18 +29,18 @@
   {
     "slug": "villa",
     "published": true,
-    "title_tr": "VILLA",
-    "title_en": "VILLA",
-    "location_tr": "TÜRKİYE",
-    "location_en": "TURKEY",
-    "year": "2026",
-    "category_tr": "KONUT",
-    "category_en": "RESIDENTIAL",
+    "title_tr": "Bağ Evi",
+    "title_en": "Vineyard House",
+    "location_tr": "MUĞLA · TÜRKİYE",
+    "location_en": "MUĞLA · TÜRKİYE",
+    "year": "2025",
+    "category_tr": "Konut · Mimari Tasarım",
+    "category_en": "Residential · Architectural Design",
     "cover": "assets/villa.jpg",
-    "summary_tr": "Sade malzeme dili, dengeli oranlar ve zamansız bir mimari yaklaşım üzerine geliştirilen konut projesi.",
-    "summary_en": "A residential project developed around a restrained material palette, balanced proportions and a timeless architectural approach.",
-    "description_tr": "İç ve dış mekân ilişkisi, doğal ışık ve kullanıcı ihtiyaçları projenin temel tasarım kararlarını oluşturur.",
-    "description_en": "The relationship between interior and exterior spaces, natural light and user needs form the project's core design decisions.",
+    "summary_tr": "Doğal peyzaj içerisinde yatay bir düzlem olarak kurgulanan bağ evi; geniş saçakları, geçirgen cepheleri ve doğal malzeme paletiyle iç ve dış mekân arasındaki sınırı azaltıyor.",
+    "summary_en": "Conceived as a horizontal plane within the natural landscape, the Vineyard House blurs the boundary between indoors and outdoors through deep overhangs, transparent façades and a restrained natural material palette.",
+    "description_tr": "Bağ Evi, yapının çevresindeki doğal peyzajla mümkün olduğunca güçlü bir ilişki kurması fikri üzerinden tasarlandı. Tek katlı ve yatay kütle organizasyonu, yapının bulunduğu çevrede baskın bir obje oluşturmak yerine peyzajın bir parçası olarak algılanmasını amaçlıyor.\n\nGeniş saçak, yapının temel mimari elemanı olarak ele alındı. İç mekânın devamı niteliğindeki yarı açık yaşam alanını tanımlayan bu üst örtü, aynı zamanda cepheleri doğrudan güneş etkisinden koruyarak kontrollü bir iç-dış mekân ilişkisi oluşturuyor. Geniş cam açıklıklar yaşam alanlarını bahçeye yönlendirirken, ince kesitli koyu renk taşıyıcılar yapının yatay karakterini güçlendiriyor.\n\nDoğal taş yüzeyler, ahşap ve sıcak toprak tonları çevredeki bitki dokusuyla ilişki kuracak şekilde bir araya getirildi. Peyzaj ise yapının çevresine sonradan eklenen dekoratif bir unsur olarak değil, mimari kurgunun devamı olarak ele alındı.\n\nSonuçta yapı; yalın geometrisi, korunaklı açık alanları ve peyzajla kurduğu süreklilik üzerinden sakin bir kırsal yaşam deneyimi sunacak şekilde tasarlandı.",
+    "description_en": "Vineyard House was designed around establishing a strong relationship between architecture and its surrounding landscape. Its single-storey horizontal composition allows the building to settle into the site rather than dominate its natural setting.\n\nA generous overhanging roof acts as one of the defining architectural elements of the project. Extending the interior living spaces into a sheltered outdoor zone, it provides solar protection while creating a gradual transition between inside and outside. Large glazed openings orient the living areas towards the garden, while slender dark structural elements reinforce the horizontal expression of the building.\n\nNatural stone, timber and warm earth tones establish a material dialogue with the surrounding vegetation. Rather than being treated as a decorative layer around the building, the landscape is conceived as a continuation of the architectural composition.\n\nThe result is a restrained rural residence defined by simple geometry, sheltered outdoor living and a continuous relationship with the landscape.",
     "gallery": [
       "assets/villa.jpg"
     ]
@@ -47,30 +48,31 @@
   {
     "slug": "workplace-interior",
     "published": true,
-    "title_tr": "WORKPLACE INTERIOR",
-    "title_en": "WORKPLACE INTERIOR",
-    "location_tr": "İSTANBUL · TÜRKİYE",
-    "location_en": "ISTANBUL · TURKEY",
+    "title_tr": "Perfektüp — Seçili İç Mekân Müdahaleleri",
+    "title_en": "PERFEKTÜP — SELECTED INTERIOR INTERVENTIONS",
+    "location_tr": "KIRKLARELİ · TÜRKİYE",
+    "location_en": "KIRKLARELİ  · TURKEY",
     "year": "2026",
-    "category_tr": "İÇ MİMARLIK",
+    "category_tr": "İç Mimarlık · Uygulama",
     "category_en": "INTERIOR ARCHITECTURE",
     "cover": "assets/kırklareli genel alanlar/ekran-goruntusu-2026-09-01-195525.png",
-    "summary_tr": "Çalışma kültürü, kullanıcı konforu ve teknik gereksinimleri bir araya getiren çağdaş bir çalışma alanı yaklaşımı.",
-    "summary_en": "A contemporary workplace approach bringing together work culture, user comfort and technical requirements.",
-    "description_tr": "Planlama, malzeme ve aydınlatma kararları bütüncül bir iç mimarlık dili içinde ele alınmıştır.",
-    "description_en": "Planning, material and lighting decisions are considered within a coherent interior architecture language.",
+    "summary_tr": "Perfektüp üretim kampüsü içerisinde farklı kullanım alanlarına yönelik geliştirilen, mevcut endüstriyel mimariyle bütünleşen seçili iç mekân müdahaleleri.",
+    "summary_en": "Selected interior interventions developed for different functions within the Perfektüp production campus, designed in dialogue with the existing industrial architecture.",
+    "description_tr": "Perfektüp Kırklareli üretim kampüsü içerisinde yer alan farklı ortak kullanım alanları, mevcut endüstriyel yapının mimari karakteri korunarak yeniden ele alındı. Çalışmanın odağında, büyük ölçekli yapının içerisinde çalışanların günlük kullanımına cevap veren daha tanımlı, işlevsel ve nitelikli iç mekânlar oluşturmak yer aldı.\n\nFarklı noktalarda geliştirilen sabit mobilyalar, depolama elemanları ve basamaklı oturma düzenleri, yalnızca ihtiyaçlara cevap veren elemanlar olarak değil, mekânsal organizasyonun bir parçası olarak tasarlandı. Özellikle ahşap basamaklı oturma alanı; bireysel kullanımın yanı sıra kısa toplantılar, sunumlar ve informal buluşmalar için esnek bir ortak alan oluşturacak şekilde kurgulandı.\n\nMalzeme seçimlerinde mevcut yapının beton ve metal ağırlıklı endüstriyel karakteri ile daha sıcak yüzeyler arasında dengeli bir ilişki kurulması amaçlandı. Ahşap yüzeyler bu nedenle belirli noktalarda öne çıkarılırken, sabit mobilyalarda yalın geometriler ve bütüncül yüzeyler tercih edildi.\n\nYüksek hacimler, mevcut mimari boşluklar ve dolaşım aksları tasarımın önemli girdileri olarak değerlendirildi; aydınlatma ve mobilya kararları bu ölçeği destekleyecek şekilde geliştirildi. Böylece birbirinden farklı işlevlere sahip alanlar, mevcut yapıyla rekabet etmek yerine onun mimari diliyle bütünleşen seçili ve ölçülü iç mekân müdahaleleri olarak ele alındı.",
+    "description_en": "Selected common areas within the Perfektüp Kırklareli production campus were reinterpreted while preserving the architectural character of the existing industrial building. The interventions focused on creating clearly defined, functional and refined interior spaces that respond to the everyday needs of employees within the large-scale facility.\n\nIntegrated furniture, storage elements and stepped seating arrangements were designed not merely as functional additions, but as components of the overall spatial organisation. In particular, the timber stepped seating area provides a flexible shared setting for individual use, informal meetings, presentations and social interaction.\n\nThe material strategy establishes a balance between the concrete and metal expression of the existing industrial structure and warmer interior surfaces. Timber was introduced selectively to create this contrast, while integrated furniture was developed through restrained geometries and continuous surfaces.\n\nExisting circulation routes, generous volumes and architectural voids were treated as key parameters of the design, with lighting and furniture interventions developed in response to the scale of the building. Rather than competing with the existing architecture, the project introduces a series of carefully considered interior interventions that become part of its industrial character.",
     "gallery": [
       "assets/kırklareli genel alanlar/ekran-goruntusu-2026-09-01-194443.png",
       "assets/kırklareli genel alanlar/ekran-goruntusu-2026-09-01-195406.png",
       "assets/kırklareli genel alanlar/ekran-goruntusu-2026-09-01-195425.png",
+      "assets/kırklareli genel alanlar/whatsapp-image-2026-09-03-at-152521.jpeg",
+      "assets/interior.jpg",
       "assets/kırklareli genel alanlar/ekran-goruntusu-2026-09-01-195525.png",
-      "assets/kırklareli genel alanlar/ekran-goruntusu-2026-09-01-195539.png",
-      "assets/kırklareli genel alanlar/ekran-goruntusu-2026-09-01-195545.png",
       "assets/kırklareli genel alanlar/ekran-goruntusu-2026-09-01-195601.png",
       "assets/kırklareli genel alanlar/ekran-goruntusu-2026-09-01-195628.png",
-      "assets/kırklareli genel alanlar/ekran-goruntusu-2026-09-01-195649.png",
+      "assets/kırklareli genel alanlar/ekran-goruntusu-2026-09-01-195539.png",
       "assets/kırklareli genel alanlar/ekran-goruntusu-2026-09-01-195659.png",
-      "assets/interior.jpg"
+      "assets/kırklareli genel alanlar/ekran-goruntusu-2026-09-01-195545.png",
+      "assets/kırklareli genel alanlar/ekran-goruntusu-2026-09-01-195649.png"
     ]
   },
   {
@@ -118,6 +120,33 @@
     ],
     "gallery_layout": [
       {}
+    ]
+  },
+  {
+    "slug": "ofis",
+    "published": true,
+    "title_tr": "IQVIA Çalışma Alanları",
+    "title_en": "IQVIA Workplace",
+    "location_tr": "İSTANBUL · TÜRKİYE",
+    "location_en": "İSTANBUL · TÜRKİYE",
+    "year": "2024",
+    "category_tr": "İç Mimarlık · Ofis · Renovasyon",
+    "category_en": "Interior Architecture · Workplace · Renovation",
+    "cover": "assets/IQVIA OFİS/ekran-goruntusu-2026-09-01-201816.png",
+    "summary_tr": "Açık çalışma alanları, toplantı mekânları ve ortak kullanım bölgelerinin; şeffaflık, esneklik ve kurumsal kimlik üzerinden yeniden ele alındığı çağdaş bir ofis kurgusu.",
+    "summary_en": "A contemporary workplace where open offices, meeting spaces and shared areas are redefined through transparency, flexibility and corporate identity.",
+    "description_tr": "IQVIA İstanbul ofisi, farklı çalışma biçimlerini destekleyen, açık ve iletişimi güçlendiren bir çalışma ortamı oluşturmak amacıyla yeniden ele alındı. Açık ofis alanları, toplantı odaları, ortak kullanım bölgeleri ve dolaşım alanları; birbirleriyle görsel ilişki kuran bütüncül bir mekânsal kurgu içerisinde düzenlendi.\n\nCam bölme sistemleri, çalışma ve toplantı alanları arasında gerekli fiziksel ayrımı sağlarken doğal ışığın iç mekânda sürekliliğini ve mekânsal geçirgenliği koruyor. Açık ofislerde ise sabit sınırlar yerine farklı kullanım senaryolarına uyum sağlayabilecek daha esnek bir yerleşim anlayışı benimsendi.\n\nMevcut yapının açıkta bırakılan teknik tesisat ve tavan elemanları tasarımın bir parçası olarak değerlendirilerek ofisin çağdaş ve teknik karakteri güçlendirildi. Lineer aydınlatmalar, akustik yüzeyler ve seçili renk kullanımlarıyla bu endüstriyel altyapı daha kontrollü ve dengeli bir iç mekân diline dönüştürüldü.\n\nKurumsal kimliğe ait renk ve grafik öğeler belirli noktalarda vurgu olarak kullanılırken, genel malzeme ve renk paleti daha nötr tutuldu. Böylece farklı işlevlere sahip alanların ortak bir mimari dil altında birleştiği, aydınlık, esnek ve kullanıcı odaklı bir çalışma ortamı oluşturuldu.",
+    "description_en": "The IQVIA Istanbul office was redesigned to create an open and collaborative workplace capable of supporting different modes of working. Open-plan workspaces, meeting rooms, shared areas and circulation zones were organised as part of a cohesive spatial system with strong visual connections.\n\nGlass partition systems provide the necessary separation between work and meeting areas while maintaining visual permeability and allowing natural light to extend deeper into the interior. Within the open office, a flexible planning approach supports different patterns of use rather than relying on rigid spatial boundaries.\n\nExposed building services and ceiling elements were incorporated into the architectural language of the workplace, reinforcing its contemporary and technical character. Linear lighting, acoustic surfaces and selected colour accents bring visual order to this exposed infrastructure and establish a more balanced interior environment.\n\nCorporate colours and graphic elements are introduced selectively as points of emphasis, while the overall material palette remains restrained. The result is a bright, flexible and user-focused workplace where different functions are connected through a consistent architectural language.",
+    "gallery": [
+      "assets/IQVIA OFİS/ekran-goruntusu-2026-09-01-201747.png",
+      "assets/IQVIA OFİS/ekran-goruntusu-2026-09-01-201754.png",
+      "assets/IQVIA OFİS/ekran-goruntusu-2026-09-01-201758.png",
+      "assets/IQVIA OFİS/ekran-goruntusu-2026-09-01-201803.png",
+      "assets/IQVIA OFİS/ekran-goruntusu-2026-09-01-201808.png",
+      "assets/IQVIA OFİS/whatsapp-image-2026-09-01-at-182539-2.jpeg",
+      "assets/IQVIA OFİS/ekran-goruntusu-2026-09-01-201820.png",
+      "assets/IQVIA OFİS/ekran-goruntusu-2026-09-01-201811.png",
+      "assets/IQVIA OFİS/whatsapp-image-2026-09-01-at-182539-3.jpeg"
     ]
   },
   {
@@ -200,33 +229,6 @@
       "assets/kırklareli yemkhane mutfak/ekran-goruntusu-2026-09-01-194824.png",
       "assets/kırklareli yemkhane mutfak/ekran-goruntusu-2026-09-01-194835.png",
       "assets/kırklareli yemkhane mutfak/ekran-goruntusu-2026-09-01-194844.png"
-    ]
-  },
-  {
-    "slug": "ofis",
-    "published": true,
-    "title_tr": "İSTANBUL · TÜRKİYE",
-    "title_en": "İSTANBUL · TÜRKİYE",
-    "location_tr": "İSTANBUL · TÜRKİYE",
-    "location_en": "İSTANBUL · TÜRKİYE",
-    "year": "İSTANBUL · TÜRKİYE",
-    "category_tr": "İSTANBUL · TÜRKİYE",
-    "category_en": "İSTANBUL · TÜRKİYE",
-    "cover": "assets/IQVIA OFİS/ekran-goruntusu-2026-09-01-201816.png",
-    "summary_tr": "İSTANBUL · TÜRKİYE",
-    "summary_en": "İSTANBUL · TÜRKİYE",
-    "description_tr": "İSTANBUL · TÜRKİYE",
-    "description_en": "İSTANBUL · TÜRKİYE",
-    "gallery": [
-      "assets/IQVIA OFİS/ekran-goruntusu-2026-09-01-201747.png",
-      "assets/IQVIA OFİS/ekran-goruntusu-2026-09-01-201754.png",
-      "assets/IQVIA OFİS/ekran-goruntusu-2026-09-01-201758.png",
-      "assets/IQVIA OFİS/ekran-goruntusu-2026-09-01-201803.png",
-      "assets/IQVIA OFİS/ekran-goruntusu-2026-09-01-201808.png",
-      "assets/IQVIA OFİS/whatsapp-image-2026-09-01-at-182539-2.jpeg",
-      "assets/IQVIA OFİS/ekran-goruntusu-2026-09-01-201820.png",
-      "assets/IQVIA OFİS/ekran-goruntusu-2026-09-01-201811.png",
-      "assets/IQVIA OFİS/whatsapp-image-2026-09-01-at-182539-3.jpeg"
     ]
   },
   {
