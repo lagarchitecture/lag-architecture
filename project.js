@@ -16,7 +16,16 @@ function render(){
   $('project-summary').textContent=project[`summary_${lang}`]||project.summary_tr||'';
   $('project-description').textContent=project[`description_${lang}`]||project.description_tr||'';
   const gallery=(project.gallery&&project.gallery.length?project.gallery:[project.cover]).filter(Boolean);
-  $('project-gallery').innerHTML=gallery.map((src,i)=>`<img src="${esc(src)}" alt="${esc(title)}${i?` ${i+1}`:''}" loading="lazy">`).join('');
+  const layouts=Array.isArray(project.gallery_layout)?project.gallery_layout:[];
+  const allowedSize=new Set(['full','large','medium','small','pair']);
+  const allowedAlign=new Set(['left','center','right']);
+  $('project-gallery').innerHTML=gallery.map((src,i)=>{
+    const cfg=layouts[i]||{};
+    const size=allowedSize.has(cfg.size)?cfg.size:(i%3===0?'full':'pair');
+    const align=allowedAlign.has(cfg.align)?cfg.align:'center';
+    const caption=cfg[`caption_${lang}`]||cfg.caption_tr||'';
+    return `<figure class="gallery-item size-${size} align-${align}"><img src="${esc(src)}" alt="${esc(title)}${i?` ${i+1}`:''}" loading="lazy">${caption?`<figcaption>${esc(caption)}</figcaption>`:''}</figure>`;
+  }).join('');
 }
 async function load(){
   try{
