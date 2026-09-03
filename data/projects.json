@@ -178,22 +178,6 @@
     ]
   },
   {
-    "slug": "perf-ofis",
-    "published": false,
-    "title_tr": "Perfektüp Ofis Alanları",
-    "title_en": "Perfektüp Ofis Alanları",
-    "cover": "assets/kırklareli ofis koridor/ekran-goruntusu-2026-09-01-194257.png",
-    "gallery": [
-      "assets/kırklareli ofis koridor/ekran-goruntusu-2026-09-01-194400.png",
-      "assets/kırklareli ofis koridor/ekran-goruntusu-2026-09-01-194613.png",
-      "assets/kırklareli ofis koridor/ekran-goruntusu-2026-09-01-194417.png",
-      "assets/kırklareli ofis koridor/ekran-goruntusu-2026-09-01-194155.png",
-      "assets/kırklareli ofis koridor/ekran-goruntusu-2026-09-01-194132.png",
-      "assets/kırklareli ofis koridor/ekran-goruntusu-2026-09-01-194331.png",
-      "assets/kırklareli ofis koridor/ekran-goruntusu-2026-09-01-194244.png"
-    ]
-  },
-  {
     "slug": "islak-hacim",
     "published": true,
     "title_tr": "Islak Hacim",
@@ -209,6 +193,40 @@
     "gallery": [
       "assets/ıslak hacim/ekran-goruntusu-2026-09-01-195445.png",
       "assets/ıslak hacim/ekran-goruntusu-2026-09-01-194752.png"
+    ]
+  },
+  {
+    "slug": "avlu-evleri",
+    "published": true,
+    "title_tr": "Avlu Evleri",
+    "title_en": "Courtyard Residences",
+    "category_tr": "Konut · Akademik Proje",
+    "category_en": "Residential · Academic Project",
+    "cover": "assets/GÜN BATIMI VİLLA/chatgpt-image-2-eyl-2026-163853.png",
+    "summary_tr": "Konut birimlerinin ortak bir avlu etrafında parçalı kütleler halinde kurgulandığı; mahremiyet, peyzaj ve iç-dış mekân sürekliliğini merkeze alan bir konut yerleşimi.",
+    "summary_en": "A residential study organised around a shared courtyard, exploring privacy, landscape and the continuity between indoor and outdoor living spaces.",
+    "description_tr": "Avlu Evleri, konut yaşamını tekil bir yapı içerisinde çözmek yerine, farklı işlevleri barındıran kütlelerin ortak bir açık alan çevresinde bir araya gelmesi fikri üzerinden geliştirildi.\n\nYerleşimin merkezinde konumlanan avlu, yalnızca yapılar arasında kalan bir boşluk değil; dolaşımı, sosyal kullanımı ve peyzajı bir araya getiren projenin ana mekânsal öğesi olarak ele alındı. Kütlelerin parçalanarak farklı yönlere açılması sayesinde birimler arasında kontrollü görüş ilişkileri oluşturulurken, özel yaşam alanlarının mahremiyeti korundu.\n\nGeniş açıklıklar ve doğrudan bahçe bağlantıları iç mekânların peyzajla sürekliliğini güçlendirirken; teraslar, havuz ve yarı açık alanlar kapalı hacimler ile bahçe arasında kademeli geçişler oluşturuyor.\n\nDoğal ve nötr malzeme paleti, yalın kütle geometrisi ve peyzajın mimari kurguya dahil edilmesiyle yapıların çevre içerisinde daha sakin bir karakter kazanması amaçlandı. Proje, mahremiyet ile ortak yaşam arasındaki dengeyi avlu tipolojisi üzerinden araştıran bir konut çalışması olarak geliştirildi.",
+    "description_en": "Courtyard Residences explores a residential model in which individual volumes are arranged around a shared central open space rather than being contained within a single building mass.\n\nThe courtyard is conceived not as a residual space between buildings, but as the primary spatial element connecting circulation, social activity and landscape. The fragmented arrangement of the volumes creates controlled visual relationships between different parts of the residence while maintaining privacy within the principal living areas.\n\nLarge openings and direct connections to the garden strengthen the continuity between interior spaces and the surrounding landscape. Terraces, the pool and semi-open areas create a gradual transition between enclosed living spaces and the garden.\n\nA restrained palette of natural materials, simple geometric volumes and an integrated landscape strategy establish a calm architectural character. The project ultimately investigates the balance between privacy and collective living through a contemporary interpretation of the courtyard typology.",
+    "gallery": [
+      "assets/GÜN BATIMI VİLLA/chatgpt-image-2-eyl-2026-163241.png",
+      "assets/GÜN BATIMI VİLLA/chatgpt-image-2-eyl-2026-164019.png",
+      "assets/GÜN BATIMI VİLLA/chatgpt-image-2-eyl-2026-164106.png"
+    ]
+  },
+  {
+    "slug": "perf-ofis",
+    "published": false,
+    "title_tr": "Perfektüp Ofis Alanları",
+    "title_en": "Perfektüp Ofis Alanları",
+    "cover": "assets/kırklareli ofis koridor/ekran-goruntusu-2026-09-01-194257.png",
+    "gallery": [
+      "assets/kırklareli ofis koridor/ekran-goruntusu-2026-09-01-194400.png",
+      "assets/kırklareli ofis koridor/ekran-goruntusu-2026-09-01-194613.png",
+      "assets/kırklareli ofis koridor/ekran-goruntusu-2026-09-01-194417.png",
+      "assets/kırklareli ofis koridor/ekran-goruntusu-2026-09-01-194155.png",
+      "assets/kırklareli ofis koridor/ekran-goruntusu-2026-09-01-194132.png",
+      "assets/kırklareli ofis koridor/ekran-goruntusu-2026-09-01-194331.png",
+      "assets/kırklareli ofis koridor/ekran-goruntusu-2026-09-01-194244.png"
     ]
   },
   {
@@ -231,24 +249,6 @@
       "assets/kırklareli yemkhane mutfak/ekran-goruntusu-2026-09-01-194824.png",
       "assets/kırklareli yemkhane mutfak/ekran-goruntusu-2026-09-01-194835.png",
       "assets/kırklareli yemkhane mutfak/ekran-goruntusu-2026-09-01-194844.png"
-    ]
-  },
-  {
-    "slug": "avlu-evleri",
-    "published": true,
-    "title_tr": "Avlu Evleri",
-    "title_en": "Courtyard Residences",
-    "category_tr": "Konut · Akademik Proje",
-    "category_en": "Residential · Academic Project",
-    "cover": "assets/GÜN BATIMI VİLLA/chatgpt-image-2-eyl-2026-163853.png",
-    "summary_tr": "Konut birimlerinin ortak bir avlu etrafında parçalı kütleler halinde kurgulandığı; mahremiyet, peyzaj ve iç-dış mekân sürekliliğini merkeze alan bir konut yerleşimi.",
-    "summary_en": "A residential study organised around a shared courtyard, exploring privacy, landscape and the continuity between indoor and outdoor living spaces.",
-    "description_tr": "Avlu Evleri, konut yaşamını tekil bir yapı içerisinde çözmek yerine, farklı işlevleri barındıran kütlelerin ortak bir açık alan çevresinde bir araya gelmesi fikri üzerinden geliştirildi.\n\nYerleşimin merkezinde konumlanan avlu, yalnızca yapılar arasında kalan bir boşluk değil; dolaşımı, sosyal kullanımı ve peyzajı bir araya getiren projenin ana mekânsal öğesi olarak ele alındı. Kütlelerin parçalanarak farklı yönlere açılması sayesinde birimler arasında kontrollü görüş ilişkileri oluşturulurken, özel yaşam alanlarının mahremiyeti korundu.\n\nGeniş açıklıklar ve doğrudan bahçe bağlantıları iç mekânların peyzajla sürekliliğini güçlendirirken; teraslar, havuz ve yarı açık alanlar kapalı hacimler ile bahçe arasında kademeli geçişler oluşturuyor.\n\nDoğal ve nötr malzeme paleti, yalın kütle geometrisi ve peyzajın mimari kurguya dahil edilmesiyle yapıların çevre içerisinde daha sakin bir karakter kazanması amaçlandı. Proje, mahremiyet ile ortak yaşam arasındaki dengeyi avlu tipolojisi üzerinden araştıran bir konut çalışması olarak geliştirildi.",
-    "description_en": "Courtyard Residences explores a residential model in which individual volumes are arranged around a shared central open space rather than being contained within a single building mass.\n\nThe courtyard is conceived not as a residual space between buildings, but as the primary spatial element connecting circulation, social activity and landscape. The fragmented arrangement of the volumes creates controlled visual relationships between different parts of the residence while maintaining privacy within the principal living areas.\n\nLarge openings and direct connections to the garden strengthen the continuity between interior spaces and the surrounding landscape. Terraces, the pool and semi-open areas create a gradual transition between enclosed living spaces and the garden.\n\nA restrained palette of natural materials, simple geometric volumes and an integrated landscape strategy establish a calm architectural character. The project ultimately investigates the balance between privacy and collective living through a contemporary interpretation of the courtyard typology.",
-    "gallery": [
-      "assets/GÜN BATIMI VİLLA/chatgpt-image-2-eyl-2026-163241.png",
-      "assets/GÜN BATIMI VİLLA/chatgpt-image-2-eyl-2026-164019.png",
-      "assets/GÜN BATIMI VİLLA/chatgpt-image-2-eyl-2026-164106.png"
     ]
   }
 ]
