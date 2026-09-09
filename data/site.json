@@ -18,23 +18,23 @@
   "services": [
     {
       "tr": "Mimari Tasarım",
-      "en": "Architecture"
+      "en": "Architectural Design"
     },
     {
-      "tr": "İç Mimarlık",
-      "en": "Interior Architecture"
+      "tr": "İç Mimarlık & Dekorasyon",
+      "en": "Interior Design & Decoration"
     },
     {
-      "tr": "Renovasyon",
-      "en": "Renovation"
+      "tr": "Tadilat & Renovasyon",
+      "en": "Renovation & Remodeling"
     },
     {
       "tr": "Uygulama Projeleri",
       "en": "Construction Documentation"
     },
     {
-      "tr": "Proje Yönetimi",
-      "en": "Project Management"
+      "tr": "Proje & Şantiye Yönetimi",
+      "en": "Project & Site Management"
     },
     {
       "tr": "Tasarım Koordinasyonu",
