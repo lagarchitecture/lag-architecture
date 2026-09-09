@@ -10,6 +10,13 @@ function render(){
   if(!project)return;
   const title=project[`title_${lang}`]||project.title_tr||'';
   document.title=`${title} — LAG Architecture`;
+  const metaDescription=document.querySelector('meta[name="description"]');
+if(metaDescription){
+  metaDescription.setAttribute(
+    'content',
+    project[`summary_${lang}`] || project.summary_tr || `${title} — LAG Architecture`
+  );
+}
   $('project-title').textContent=title;
   $('project-facts').innerHTML=[project[`location_${lang}`]||project.location_tr,project.year,project[`category_${lang}`]||project.category_tr].filter(Boolean).map(x=>`<span>${esc(x)}</span>`).join('');
   $('project-cover').src=project.cover||'';$('project-cover').alt=title;
