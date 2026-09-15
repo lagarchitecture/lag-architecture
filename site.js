@@ -23,19 +23,17 @@ function render(){
   $('studio-body-2').textContent=siteData[`studio_body_2_${lang}`]||'';
 $('services-list').innerHTML=(siteData.services||[]).map(s=>{
   const name=s[lang]||s.tr||'';
-  const tr=(s.tr||'').toLowerCase();
 
-  if(tr.includes('tadilat')){
+  if(s.tr === 'Tadilat & Renovasyon'){
     return `<a class="service" href="tadilat-renovasyon.html">${escapeHtml(name)}</a>`;
   }
 
-  if(tr.includes('iç mimarlık')){
+  if(s.tr === 'İç Mimarlık & Dekorasyon'){
     return `<a class="service" href="ic-mimarlik.html">${escapeHtml(name)}</a>`;
   }
 
   return `<div class="service">${escapeHtml(name)}</div>`;
 }).join('');
-  $('contact-location').textContent=siteData[`location_${lang}`]||'';
   $('footer-tagline').textContent=siteData.footer_tagline||'';
   if(siteData.phone){$('contact-phone-wrap').hidden=false;$('contact-phone').textContent=siteData.phone;$('contact-phone').href=`tel:${siteData.phone.replace(/\s/g,'')}`;}else $('contact-phone-wrap').hidden=true;
   if(siteData.instagram){$('contact-instagram-wrap').hidden=false;$('contact-instagram').href=siteData.instagram;}else $('contact-instagram-wrap').hidden=true;
