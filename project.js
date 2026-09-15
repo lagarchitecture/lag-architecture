@@ -37,6 +37,12 @@ if(metaDescription){
 async function load(){
   try{
     const slug=new URLSearchParams(location.search).get('project'); const stamp=Date.now();
+    if(!slug){
+  const robots=document.createElement('meta');
+  robots.name='robots';
+  robots.content='noindex, follow';
+  document.head.appendChild(robots);
+}
     const designPromise=lagFetchDesign(stamp);
     const [site,projects]=await Promise.all([fetch(`data/site.json?v=${stamp}`).then(r=>r.json()),fetch(`data/projects.json?v=${stamp}`).then(r=>r.json())]);
     await designPromise;
