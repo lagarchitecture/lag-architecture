@@ -21,7 +21,13 @@ function render(){
   $('studio-heading').textContent=siteData[`studio_heading_${lang}`]||'';
   $('studio-body-1').textContent=siteData[`studio_body_1_${lang}`]||'';
   $('studio-body-2').textContent=siteData[`studio_body_2_${lang}`]||'';
-  $('services-list').innerHTML=(siteData.services||[]).map(s=>`<div class="service">${escapeHtml(s[lang]||s.tr||'')}</div>`).join('');
+  $('services-list').innerHTML=(siteData.services||[]).map(s=>{
+  const name=s[lang]||s.tr||'';
+  const isRenovation=(s.tr||'').toLowerCase().includes('tadilat');
+  return isRenovation
+    ? `<a class="service" href="tadilat-renovasyon.html">${escapeHtml(name)}</a>`
+    : `<div class="service">${escapeHtml(name)}</div>`;
+}).join('');
   $('contact-heading').textContent=siteData[`contact_heading_${lang}`]||'';
   $('contact-intro').textContent=siteData[`contact_intro_${lang}`]||'';
   $('contact-email').textContent=siteData.email||''; $('contact-email').href=`mailto:${siteData.email||''}`;
