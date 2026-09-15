@@ -21,16 +21,20 @@ function render(){
   $('studio-heading').textContent=siteData[`studio_heading_${lang}`]||'';
   $('studio-body-1').textContent=siteData[`studio_body_1_${lang}`]||'';
   $('studio-body-2').textContent=siteData[`studio_body_2_${lang}`]||'';
-  $('services-list').innerHTML=(siteData.services||[]).map(s=>{
+$('services-list').innerHTML=(siteData.services||[]).map(s=>{
   const name=s[lang]||s.tr||'';
-  const isRenovation=(s.tr||'').toLowerCase().includes('tadilat');
-  return isRenovation
-    ? `<a class="service" href="tadilat-renovasyon.html">${escapeHtml(name)}</a>`
-    : `<div class="service">${escapeHtml(name)}</div>`;
+  const tr=(s.tr||'').toLowerCase();
+
+  if(tr.includes('tadilat')){
+    return `<a class="service" href="tadilat-renovasyon.html">${escapeHtml(name)}</a>`;
+  }
+
+  if(tr.includes('iç mimarlık')){
+    return `<a class="service" href="ic-mimarlik.html">${escapeHtml(name)}</a>`;
+  }
+
+  return `<div class="service">${escapeHtml(name)}</div>`;
 }).join('');
-  $('contact-heading').textContent=siteData[`contact_heading_${lang}`]||'';
-  $('contact-intro').textContent=siteData[`contact_intro_${lang}`]||'';
-  $('contact-email').textContent=siteData.email||''; $('contact-email').href=`mailto:${siteData.email||''}`;
   $('contact-location').textContent=siteData[`location_${lang}`]||'';
   $('footer-tagline').textContent=siteData.footer_tagline||'';
   if(siteData.phone){$('contact-phone-wrap').hidden=false;$('contact-phone').textContent=siteData.phone;$('contact-phone').href=`tel:${siteData.phone.replace(/\s/g,'')}`;}else $('contact-phone-wrap').hidden=true;
